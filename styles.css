@@ -17,7 +17,7 @@
   font-size: large;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
-  border:1px dotted brown;
+  border:3px solid brown;
   border-radius: 13px;
   vertical-align: middle;
   cursor: pointer;
