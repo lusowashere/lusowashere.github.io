@@ -1,0 +1,213 @@
+<!doctype html>
+<head>
+	<style>
+		.tabla{
+			display: table;
+		}
+
+		.filaTabla{
+			display: table-row;
+		}
+
+		.textoTitulo{
+			display: table-cell;
+			text-decoration: underline;
+			cursor:pointer;
+		}
+
+		.textoArtista{
+			display:table-cell;
+			text-align: right;
+			padding-bottom: 10px;
+		}
+
+		.filaAcordes{
+			font-family: 'Courier New', Courier, monospace;
+			color:blue;
+			font-weight: bold;
+		}
+
+		.filaLetras{
+			font-family: 'Courier New', Courier, monospace;
+		}
+
+		button{
+			height: 40px;
+			margin: 15px 30px;
+		}
+
+		#cuadroTransponer{
+			margin:15px 10px 20px
+		}
+
+	</style>
+
+</head>
+<body >
+	<div id=lugarParaBotones ">
+		<button id=buttVolverAlIndice onClick='cargarListaCanciones()' style='display:none'>INDICE</button>
+		<div id=cuadroTransponer style="background-color: darkkhaki; display:none">
+			<button onClick='transponer(-1)' style='margin-right:5px'>&#60-- </button>TRANSPONER
+			<button onClick='transponer(1)' style='margin-left:5px'>--&#62; </button>
+		</div>
+	</div>
+	<div id=lugarParaAcordes style='margin-left:30px'></div>
+	<script src='datosAcordes.js'></script>
+	<script>
+
+		var cancionActual=0;
+		var arrayAcordes=[
+			{"acorde":"A","anterior":"G#","posterior":"Bb"},
+			{"acorde":"A#","anterior":"A","posterior":"B"},
+			{"acorde":"Bb","anterior":"A","posterior":"B"},
+			{"acorde":"B","anterior":"Bb","posterior":"C"},
+			{"acorde":"C","anterior":"B","posterior":"C#"},
+			{"acorde":"C#","anterior":"C","posterior":"D"},
+			{"acorde":"Db","anterior":"C","posterior":"D"},
+			{"acorde":"D","anterior":"C#","posterior":"D#"},
+			{"acorde":"D#","anterior":"D","posterior":"E"},
+			{"acorde":"Eb","anterior":"D","posterior":"E"},
+			{"acorde":"E","anterior":"D#","posterior":"F"},
+			{"acorde":"F","anterior":"E","posterior":"F#"},
+			{"acorde":"F#","anterior":"F","posterior":"G"},
+			{"acorde":"Gb","anterior":"F","posterior":"G"},
+			{"acorde":"G","anterior":"F#","posterior":"G#"},
+			{"acorde":"G#","anterior":"G","posterior":"A"},
+			{"acorde":"Ab","anterior":"G","posterior":"A"}
+		]
+
+		cargarListaCanciones();
+
+		function cargarListaCanciones(){//carga la lista de canciones
+			var htmlIndice="ACORDES<br><div class=tabla>";
+			
+			for(nCancion=0;nCancion<canciones.length;nCancion++){
+				htmlIndice+="<div class=filaTabla><div class='textoArtista'>"+canciones[nCancion].Artista+"  -&nbsp; </div>";
+				htmlIndice+="<div class=textoTitulo onclick=\"cargarCancion('"+nCancion+"')\">"+canciones[nCancion].Titulo+"</div></div>";
+			}
+
+			htmlIndice+="</div>";
+
+			document.getElementById("lugarParaAcordes").innerHTML=htmlIndice;
+
+			verBotonesIniciales(true);
+		}
+
+		function cargarCancion(numeroCancion){
+			cancionActual=numeroCancion;
+			var htmlCancion="";
+			htmlCancion="<div class=filaTabla><div class=textoArtista>"+canciones[numeroCancion].Artista+"  -&nbsp; </div>";
+			htmlCancion+="<div class=textoTitulo >"+canciones[numeroCancion].Titulo+"</div></div><br>";
+
+			for(j=0;j<canciones[numeroCancion].Estrofas.length;j++){
+				var estrofa=canciones[numeroCancion].Estrofas[j];
+				var lineaAcordes=estrofa.lineaAcordes.replace(/ /g,"&nbsp;");
+				htmlCancion+="<div class=filaAcordes>"+lineaAcordes+"</div><div class=filaLetras>"+limpiarAcentos(estrofa.lineaLetras).replace(/ /g,"&nbsp;")+"</div><br>";
+			}
+
+
+
+			document.getElementById("lugarParaAcordes").innerHTML=htmlCancion;
+
+			verBotonesIniciales(false);
+
+		}
+
+		function verBotonesIniciales(valor){
+			if(valor){
+				document.getElementById("buttVolverAlIndice").style.display="none";
+				document.getElementById("cuadroTransponer").style.display="none"
+			}else{
+				document.getElementById("buttVolverAlIndice").style.display="inline";
+				document.getElementById("cuadroTransponer").style.display="inline-block"
+			}
+		}
+
+
+		function transponer(cantidad){
+			
+			for(numeroEstrofa=0;numeroEstrofa<canciones[cancionActual].Estrofas.length;numeroEstrofa++){
+				
+				canciones[cancionActual].Estrofas[numeroEstrofa].lineaAcordes=transponerFila(canciones[cancionActual].Estrofas[numeroEstrofa].lineaAcordes,cantidad);
+			}
+			cargarCancion(cancionActual);
+			
+		}
+
+		function transponerFila(textoFila,cantidad){
+			var textoFinal=""
+			var ignorar=false;
+			var posibleAcorde,posibleAcordeDoble;
+			textoFila=textoFila+" ";
+			//console.log("transponiendo fila '"+textoFila+"'");
+			for(numeroCaracter=0;numeroCaracter<textoFila.length;numeroCaracter++){
+				if(ignorar){
+					ignorar=false;
+				}else{
+					posibleAcorde=textoFila.substring(numeroCaracter,numeroCaracter+1);
+					//console.log("posible:'"+posibleAcorde+"'");
+					if(posibleAcorde==""){
+						//console.log("es un espacio");
+						textoFinal+=" ";
+					}else{
+						posibleAcordeDoble=textoFila.substring(numeroCaracter,numeroCaracter+2);
+						//console.log("posible doble:'"+posibleAcordeDoble+"'");
+						if(numeroAcorde(posibleAcordeDoble)>=0){
+							textoFinal+=transponerAcorde(posibleAcordeDoble,cantidad);
+							ignorar=true;
+						}else if(numeroAcorde(posibleAcorde)>=0){
+							textoFinal+=transponerAcorde(posibleAcorde,cantidad);
+						}else{
+							textoFinal+=posibleAcorde;
+						}
+					}
+				}
+
+			}
+			//console.log("valor: '"+textoFinal+"'")
+			return textoFinal;
+		}
+
+		function transponerAcorde(acorde,cantidad){
+			//console.log("transponiendo acorde:'"+acorde+"'");
+			switch(cantidad){
+				case 1:
+					return arrayAcordes[numeroAcorde(acorde)].posterior;
+					break;
+				case -1:
+					return arrayAcordes[numeroAcorde(acorde)].anterior;
+					break;
+				default:
+					return "patata";
+			}
+		}
+
+		function numeroAcorde(acorde){
+			var numero=-1;
+			for(nPosibleAcorde=0;nPosibleAcorde<arrayAcordes.length;nPosibleAcorde++){
+				if(arrayAcordes[nPosibleAcorde].acorde==acorde){numero=nPosibleAcorde;}
+			}
+
+			/*if(numero==-1 && acorde!=" "){
+				console.log("no se ha encontrado el acorde '"+acorde+"'");
+			}*/
+
+
+			return numero;
+		}
+
+
+		function limpiarAcentos(texto){
+			var textoLimpiado=texto;
+
+			textoLimpiado=textoLimpiado.replace(/á/g,"&aacute");
+
+
+
+			return textoLimpiado;
+		}
+
+
+	</script>
+
+</body>
