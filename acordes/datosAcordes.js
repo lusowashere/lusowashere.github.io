@@ -200,6 +200,26 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"Poison"}
 ,{"lineaAcordes":"","lineaLetras":" "}
 ]}
+,{"Artista":"B.J. Thomas","Titulo":"Raindrops keep falling on my head","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: F - C - Bb - C"}
+,{"lineaAcordes":"F                                                    F7+","lineaLetras":"Raindrops keep falling on my head"}
+,{"lineaAcordes":"    F7                                                          Bb                   Am","lineaLetras":"And just like the guy whose feet are too big for his bed,"}
+,{"lineaAcordes":"D7                            Am   D7    Gm7                                                                                C7","lineaLetras":"Nothing seems to fit, Those raindrops are fallin' on my head they keep fallin' "}
+,{"lineaAcordes":"                  F                                            F7+","lineaLetras":"So I just did me some talkin' to the sun,"}
+,{"lineaAcordes":"    F7                                        Bb                            Am","lineaLetras":"And I said I didn't like the way he got things done"}
+,{"lineaAcordes":"D7                       Am   D7      Gm7                                                                                C7","lineaLetras":"Sleepin' on the job,  those raindrops are fallin' on my head they keep fallin'"}
+,{"lineaAcordes":"C7                            F        F7+","lineaLetras":"But there's one thing I know, "}
+,{"lineaAcordes":"    Bb                                     C                         Am","lineaLetras":"The blues they send to meet me, won't defeat me"}
+,{"lineaAcordes":"D7                               Gm                      Bb          C              Bb C","lineaLetras":"It won't be long till happiness steps up to greet me"}
+,{"lineaAcordes":"F                            F7+","lineaLetras":"Raindrops keep fallin' on my head,"}
+,{"lineaAcordes":"    F7                                                         Bb                      Am","lineaLetras":"But that doesn't mean my eyes will soon be turnin' red,"}
+,{"lineaAcordes":"D7                     Am    D7    Gm7                                                                                C7","lineaLetras":"Cryin's not for me, cause I'm never gonna stop the rain by complainin'"}
+,{"lineaAcordes":"C7                    F       C7","lineaLetras":"Because I'm free, nothings worryin' me"}
+,{"lineaAcordes":"[Instrumental] F - F7+ - Bb - C - Am","lineaLetras":""}
+,{"lineaAcordes":"D7                    Gm                             Bb C Bb C","lineaLetras":"It won't be long till happiness steps up to greet me"}
+,{"lineaAcordes":"","lineaLetras":"[Repete último verso]"}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
 ,{"Artista":"Beatles","Titulo":"Hey Jude","Estrofas":[{"lineaAcordes":"	 F                                C                    C7   Csus7                    F ","lineaLetras":"Hey Jude, don't make it bad, take a sad song and make it better, "}
 ,{"lineaAcordes":"           Bb                                                F                                C7                       F ","lineaLetras":"remember to let her into your heart, then you can start to make it better. "}
 ,{"lineaAcordes":"               F                            C                         C7 Csus7                    F ","lineaLetras":"Hey Jude, don't be afraid, you were made to go out and get her. "}
@@ -225,7 +245,7 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"           E7                      A ","lineaLetras":"would you stand up and walk out on me? "}
 ,{"lineaAcordes":"              E             Bm ","lineaLetras":"Lend me your ears and I'll sing you a song "}
 ,{"lineaAcordes":"         E7                      A ","lineaLetras":"and I'll try not to sing out of key. Oh.. "}
-,{"lineaAcordes":"        G               D            A ","lineaLetras":"  "}
+,{"lineaAcordes":"        G               D            A ","lineaLetras":""}
 ,{"lineaAcordes":"  G                 D            A ","lineaLetras":"  I get by with a little help from my friends. Mm, I get "}
 ,{"lineaAcordes":"  G                D            A  ","lineaLetras":"  high with a little help from my friends. Mm, I'm gonna "}
 ,{"lineaAcordes":"","lineaLetras":"  try with a little help from my friends. "}
@@ -241,6 +261,40 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"             E            Bm ","lineaLetras":"What do you see when you turn out the light? "}
 ,{"lineaAcordes":"         E7                       A ","lineaLetras":"I can't tell you but I know it's mine. Oh.. "}
 ,{"lineaAcordes":"","lineaLetras":"Chorus "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Billy Idol","Titulo":"White Wedding","Estrofas":[{"lineaAcordes":"Bm      Bm      Bm      E       D","lineaLetras":"Intro:"}
+,{"lineaAcordes":"Bm      Bm      D       E       Bm","lineaLetras":""}
+,{"lineaAcordes":"Bm                                      A       E         ","lineaLetras":"Hey little sister what have you done"}
+,{"lineaAcordes":"Bm                                      A       E","lineaLetras":"Hey little sister who's the only one"}
+,{"lineaAcordes":"Bm              ","lineaLetras":"Hey little sister who's your superman"}
+,{"lineaAcordes":"A","lineaLetras":"Hey little sister who's the one you want"}
+,{"lineaAcordes":"Bm","lineaLetras":"Hey little sister shot gun!"}
+,{"lineaAcordes":"A               E","lineaLetras":"It's a nice day to start again"}
+,{"lineaAcordes":"Bm      E               D               ","lineaLetras":"It's a nice day for a white wedding"}
+,{"lineaAcordes":"Bm      E               D       Bm","lineaLetras":"It's a nice day to start again."}
+,{"lineaAcordes":"Bm                                      A       E","lineaLetras":"Hey little sister what have you done"}
+,{"lineaAcordes":"Bm                                      A       E","lineaLetras":"Hey little sister who's the only one"}
+,{"lineaAcordes":"Bm","lineaLetras":"I've been away for so long (so long)"}
+,{"lineaAcordes":"A","lineaLetras":"I've been away for so long (so long)"}
+,{"lineaAcordes":"Bm","lineaLetras":"I let you go for so long"}
+,{"lineaAcordes":"Bm      Bm      E       D","lineaLetras":"Chorus and Intro"}
+,{"lineaAcordes":"Bm      Bm      D       E","lineaLetras":""}
+,{"lineaAcordes":"Bm      Bm      E       E","lineaLetras":""}
+,{"lineaAcordes":"Bm      Bm      D       E       ","lineaLetras":""}
+,{"lineaAcordes":"Bm      Bm      A","lineaLetras":"(Pick it up)"}
+,{"lineaAcordes":"E               Bm      Bm","lineaLetras":"Take me back home"}
+,{"lineaAcordes":"","lineaLetras":"There is nothin' fair in this world"}
+,{"lineaAcordes":"","lineaLetras":"There is nothin' safe in this world"}
+,{"lineaAcordes":"","lineaLetras":"And there's nothin' sure in this world"}
+,{"lineaAcordes":"","lineaLetras":"And there's nothin' pure in this world"}
+,{"lineaAcordes":"","lineaLetras":"Look for something left in this world"}
+,{"lineaAcordes":"","lineaLetras":"Start again"}
+,{"lineaAcordes":"","lineaLetras":"Come on"}
+,{"lineaAcordes":"","lineaLetras":"It's a nice day for a white wedding"}
+,{"lineaAcordes":"","lineaLetras":"It's a nice day to start again."}
+,{"lineaAcordes":"","lineaLetras":"It's a nice day for a white wedding"}
+,{"lineaAcordes":"","lineaLetras":"It's a nice day to start again"}
 ,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"duncan dhu","Titulo":"Cien gaviotas","Estrofas":[{"lineaAcordes":"G C G C G C G C D D11 D D11","lineaLetras":""}
@@ -338,25 +392,22 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"Artista":"the beatles","Titulo":"I feel fine","Estrofas":[{"lineaAcordes":"Intro: A   D  C  G7    ","lineaLetras":""}
 ,{"lineaAcordes":"     G7  ","lineaLetras":"1.  Baby's good to me you know, she's happy as can be, you know  "}
 ,{"lineaAcordes":"            D                                          C                     G7 ","lineaLetras":"    she said so. I'm in love with her and I feel fine.  "}
-,{"lineaAcordes":"     G7                  ","lineaLetras":"   "}
+,{"lineaAcordes":"     G7                  ","lineaLetras":""}
 ,{"lineaAcordes":"             D                                         C                     G7 ","lineaLetras":"2.  Baby says she's mine, you know, she tells me all the time, you know  "}
 ,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
-,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":"                           "}
+,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":""}
 ,{"lineaAcordes":"                   G7  ","lineaLetras":"Chorus: I'm so glad that she's my little girl.  "}
-,{"lineaAcordes":"","lineaLetras":"       She's so glad she's telling all the world..  "}
-,{"lineaAcordes":"","lineaLetras":"   "}
-,{"lineaAcordes":"                                     C                         G7  ","lineaLetras":"3.  That her baby buys her things, you know,  "}
-,{"lineaAcordes":"","lineaLetras":"                                                                                  D "}
-,{"lineaAcordes":"     Instrumental: G7 D C G7 ","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
-,{"lineaAcordes":"     G7                  ","lineaLetras":"     She's in love with me  and I feel fine. "}
-,{"lineaAcordes":"             D                                         C                        G7 ","lineaLetras":"4.  Baby says she's mine, you know, she tells me all the time, you know  "}
-,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
-,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":"                           "}
+,{"lineaAcordes":"                                     C                         G7  ","lineaLetras":"       She's so glad she's telling all the world..  "}
+,{"lineaAcordes":"","lineaLetras":"3.  That her baby buys her things, you know,  "}
+,{"lineaAcordes":"     Instrumental: G7 D C G7 ","lineaLetras":"                                                                                  D "}
+,{"lineaAcordes":"     G7                  ","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
+,{"lineaAcordes":"             D                                         C                        G7 ","lineaLetras":"     She's in love with me  and I feel fine. "}
+,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"4.  Baby says she's mine, you know, she tells me all the time, you know  "}
+,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
 ,{"lineaAcordes":"                   G7  ","lineaLetras":"Chorus: I'm so glad that she's my little girl.  "}
-,{"lineaAcordes":"","lineaLetras":"       She's so glad she's telling all the world..   "}
-,{"lineaAcordes":"","lineaLetras":"   "}
-,{"lineaAcordes":"                                       C                     G7  ","lineaLetras":"5.  That her baby buys her things, you know,  "}
-,{"lineaAcordes":"      D                             C                 G7  ","lineaLetras":"                                                                    D "}
+,{"lineaAcordes":"                                       C                     G7  ","lineaLetras":"       She's so glad she's telling all the world..   "}
+,{"lineaAcordes":"      D                             C                 G7  ","lineaLetras":"5.  That her baby buys her things, you know,  "}
+,{"lineaAcordes":"","lineaLetras":"                                                                    D "}
 ,{"lineaAcordes":"","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
 ,{"lineaAcordes":"","lineaLetras":"     She's in love with me  and I feel fine. "}
 ,{"lineaAcordes":"","lineaLetras":"     She's in love with me  and I feel fine.  "}
