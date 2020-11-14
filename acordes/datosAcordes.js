@@ -11,8 +11,7 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"                         C                    Csus4","lineaLetras":"Does your mother know that you're out?"}
 ,{"lineaAcordes":"   C                  Csus4","lineaLetras":"And I could chat with you baby"}
 ,{"lineaAcordes":"   C                                                            G","lineaLetras":"Flirt a little maybe"}
-,{"lineaAcordes":"","lineaLetras":"Does your mother know that you're out?"}
-,{"lineaAcordes":"              G      ","lineaLetras":""}
+,{"lineaAcordes":"              G      ","lineaLetras":"Does your mother know that you're out?"}
 ,{"lineaAcordes":"              C                 Cm/G      ","lineaLetras":"Take it easy (take it easy)"}
 ,{"lineaAcordes":"                   G          Cm/G      ","lineaLetras":"Better slow down girl"}
 ,{"lineaAcordes":"                       G      Cm/G","lineaLetras":"That's no way to go"}
@@ -20,23 +19,19 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"             C        Cm/G    ","lineaLetras":"Take it easy (take it easy)"}
 ,{"lineaAcordes":"              G        Cm/G","lineaLetras":"Try to cool it girl"}
 ,{"lineaAcordes":"                       G      Cm/G","lineaLetras":"Play it nice and slow"}
-,{"lineaAcordes":"","lineaLetras":"Does your mother know?"}
-,{"lineaAcordes":"","lineaLetras":""}
-,{"lineaAcordes":"G                                  Em","lineaLetras":""}
+,{"lineaAcordes":"G                                  Em","lineaLetras":"Does your mother know?"}
 ,{"lineaAcordes":"G               C                    G/B                Am                  G                  D","lineaLetras":"I can see what you want"}
 ,{"lineaAcordes":"D                                     G","lineaLetras":"But you seem pretty young to be searching for that kind of fun"}
 ,{"lineaAcordes":"G                                     Em","lineaLetras":"So maybe I'm not the one"}
 ,{"lineaAcordes":"G           C                         G/B                       Am             G                     D   ","lineaLetras":"Now you're so cute, I like your style"}
 ,{"lineaAcordes":"D                                      G","lineaLetras":"And I know what you mean when you give me a flash of that smile (smile) "}
-,{"lineaAcordes":"","lineaLetras":"But girl you're only a child"}
-,{"lineaAcordes":"                     C                         Csus4","lineaLetras":""}
+,{"lineaAcordes":"                     C                         Csus4","lineaLetras":"But girl you're only a child"}
 ,{"lineaAcordes":"C                           Csus4","lineaLetras":"Well I can dance with you honey"}
 ,{"lineaAcordes":"  C                                                             G","lineaLetras":"If you think it's funny"}
 ,{"lineaAcordes":"                         C                    Csus4","lineaLetras":"Does your mother know that you're out?"}
 ,{"lineaAcordes":"   C                  Csus4","lineaLetras":"And I could chat with you baby"}
 ,{"lineaAcordes":"   C                                                            G","lineaLetras":"Flirt a little maybe"}
-,{"lineaAcordes":"","lineaLetras":"Does your mother know that you're out?"}
-,{"lineaAcordes":"              G      ","lineaLetras":""}
+,{"lineaAcordes":"              G      ","lineaLetras":"Does your mother know that you're out?"}
 ,{"lineaAcordes":"              C                 Cm/G      ","lineaLetras":"Take it easy (take it easy)"}
 ,{"lineaAcordes":"                   G          Cm/G      ","lineaLetras":"Better slow down girl"}
 ,{"lineaAcordes":"                       G      Cm/G","lineaLetras":"That's no way to go"}
@@ -44,8 +39,7 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"             C        Cm/G    ","lineaLetras":"Take it easy (take it easy)"}
 ,{"lineaAcordes":"              G        Cm/G","lineaLetras":"Try to cool it girl"}
 ,{"lineaAcordes":"                       G      Cm/G","lineaLetras":"Play it nice and slow"}
-,{"lineaAcordes":"","lineaLetras":"Does your mother know?"}
-,{"lineaAcordes":"                     C                         Csus4","lineaLetras":""}
+,{"lineaAcordes":"                     C                         Csus4","lineaLetras":"Does your mother know?"}
 ,{"lineaAcordes":"C                           Csus4","lineaLetras":"Well I can dance with you honey"}
 ,{"lineaAcordes":"  C                                                             G","lineaLetras":"If you think it's funny"}
 ,{"lineaAcordes":"                         C                    Csus4","lineaLetras":"Does your mother know that you're out?"}
@@ -54,7 +48,6 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"Does your mother know that you're out?"}
 ,{"lineaAcordes":"","lineaLetras":"repeat and fade"}
 ,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"ABBA","Titulo":"Gimme Gimme Gimme","Estrofas":[{"lineaAcordes":"intro (guitar): Dm Dm#5 C Dm Dm#5 Dm C Dm x2","lineaLetras":""}
 ,{"lineaAcordes":"synth joining: Dm F Am Dm x2","lineaLetras":""}
@@ -241,6 +234,29 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"    Na na na, na na na na, na na na, hey Jude... (repeat and fade) x19"}
 ,{"lineaAcordes":"","lineaLetras":" "}
 ]}
+,{"Artista":"Beatles","Titulo":"I feel fine","Estrofas":[{"lineaAcordes":"Intro: A   D  C  G7    ","lineaLetras":""}
+,{"lineaAcordes":"     G7  ","lineaLetras":"1.  Baby's good to me you know, she's happy as can be, you know  "}
+,{"lineaAcordes":"            D                                          C                     G7 ","lineaLetras":"    she said so. I'm in love with her and I feel fine.  "}
+,{"lineaAcordes":"     G7                  ","lineaLetras":""}
+,{"lineaAcordes":"             D                                         C                     G7 ","lineaLetras":"2.  Baby says she's mine, you know, she tells me all the time, you know  "}
+,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
+,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":""}
+,{"lineaAcordes":"                   G7  ","lineaLetras":"Chorus: I'm so glad that she's my little girl.  "}
+,{"lineaAcordes":"                                     C                         G7  ","lineaLetras":"       She's so glad she's telling all the world..  "}
+,{"lineaAcordes":"     Instrumental: G7 D C G7 ","lineaLetras":"3.  That her baby buys her things, you know,  "}
+,{"lineaAcordes":"     G7                  ","lineaLetras":"                                                                                  D "}
+,{"lineaAcordes":"             D                                         C                        G7 ","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
+,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"     She's in love with me  and I feel fine. "}
+,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":"4.  Baby says she's mine, you know, she tells me all the time, you know  "}
+,{"lineaAcordes":"                   G7  ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
+,{"lineaAcordes":"                                       C                     G7  ","lineaLetras":"Chorus: I'm so glad that she's my little girl.  "}
+,{"lineaAcordes":"      D                             C                 G7  ","lineaLetras":"       She's so glad she's telling all the world..   "}
+,{"lineaAcordes":"","lineaLetras":"5.  That her baby buys her things, you know,  "}
+,{"lineaAcordes":"","lineaLetras":"                                                                    D "}
+,{"lineaAcordes":"","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
+,{"lineaAcordes":"","lineaLetras":"     She's in love with me  and I feel fine. "}
+,{"lineaAcordes":"","lineaLetras":"     She's in love with me  and I feel fine.  "}
+]}
 ,{"Artista":"Beatles","Titulo":"With a little help from my friends","Estrofas":[{"lineaAcordes":"   A             E       Bm ","lineaLetras":"What would you do if I sang out of tune  "}
 ,{"lineaAcordes":"           E7                      A ","lineaLetras":"would you stand up and walk out on me? "}
 ,{"lineaAcordes":"              E             Bm ","lineaLetras":"Lend me your ears and I'll sing you a song "}
@@ -295,6 +311,261 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"It's a nice day to start again."}
 ,{"lineaAcordes":"","lineaLetras":"It's a nice day for a white wedding"}
 ,{"lineaAcordes":"","lineaLetras":"It's a nice day to start again"}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Bodyjar","Titulo":"Not the same","Estrofas":[{"lineaAcordes":"        E         C        C#m       A","lineaLetras":"  GUITARRA 1 (x2)"}
+,{"lineaAcordes":"     E ","lineaLetras":"   Think of all the things I do"}
+,{"lineaAcordes":"     G#","lineaLetras":"   And I still hold the thought of you"}
+,{"lineaAcordes":"        C#m                             A","lineaLetras":"   With someone else I know its true so faraway"}
+,{"lineaAcordes":"","lineaLetras":"And I can only hold my breath"}
+,{"lineaAcordes":"","lineaLetras":"And start to die a lonely death"}
+,{"lineaAcordes":"","lineaLetras":"With you and me and all the rest so faraway"}
+,{"lineaAcordes":"C#m                    F#m","lineaLetras":"   Don't say I told you so"}
+,{"lineaAcordes":"C#m                       F#m G# A (golpes rápidos)","lineaLetras":"   One thing you'll never know"}
+,{"lineaAcordes":"  A               E","lineaLetras":"   You're not the same"}
+,{"lineaAcordes":"           C#m","lineaLetras":"   You've changed"}
+,{"lineaAcordes":"","lineaLetras":"               A           E"}
+,{"lineaAcordes":"","lineaLetras":"   1/ I don't need you anyway"}
+,{"lineaAcordes":"                   F#m                                G# A (golpes rápidos)","lineaLetras":"   2/Somthings missing anyway"}
+,{"lineaAcordes":"","lineaLetras":"   You're not the person that I believed in yesterday"}
+,{"lineaAcordes":"","lineaLetras":"INTRODUCCIÓN 2X"}
+,{"lineaAcordes":"","lineaLetras":"I can't hold it back you see"}
+,{"lineaAcordes":"","lineaLetras":"I know it all comes back to me"}
+,{"lineaAcordes":"","lineaLetras":"You must have practiced hard to be so faraway"}
+,{"lineaAcordes":"","lineaLetras":"Never wanted me to show"}
+,{"lineaAcordes":"","lineaLetras":"Just write me off I let you go"}
+,{"lineaAcordes":"","lineaLetras":"And now there's more for you to know"}
+,{"lineaAcordes":"","lineaLetras":"So faraway"}
+,{"lineaAcordes":"","lineaLetras":"You're not the same"}
+,{"lineaAcordes":"","lineaLetras":"You've changed"}
+,{"lineaAcordes":"","lineaLetras":"1/ I don't need you anyway"}
+,{"lineaAcordes":"","lineaLetras":"2/Somthings missing anyway"}
+,{"lineaAcordes":"","lineaLetras":"You're not the person that I believed in yesterday"}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Bon Jovi","Titulo":"Living on a prayer","Estrofas":[{"lineaAcordes":"Em C D ...   ","lineaLetras":"(Once upon a time, not so long ago ....)   "}
+,{"lineaAcordes":"Em                                 Em/F# (022002)   ","lineaLetras":"Tommy used to work on the docks   "}
+,{"lineaAcordes":"Em   ","lineaLetras":"Union's been on strike. He's down on his luck   "}
+,{"lineaAcordes":"      C      D           Em   ","lineaLetras":"It's tough,   so tough.   "}
+,{"lineaAcordes":"","lineaLetras":"Gina work the dinner all day   "}
+,{"lineaAcordes":"","lineaLetras":"Working for her man. She brings home her pay   "}
+,{"lineaAcordes":"","lineaLetras":"For love, for love.   "}
+,{"lineaAcordes":"                       C   D                Em   ","lineaLetras":"She says we've got to hold on to what we've got.   "}
+,{"lineaAcordes":"C                 D                           Em   ","lineaLetras":"It doesn't make a difference if we make it or not.   "}
+,{"lineaAcordes":"       C        D                 Em        C   ","lineaLetras":"We've got each other and that's a lot, for love.   "}
+,{"lineaAcordes":"      D   ","lineaLetras":"We'll give it a shot.   "}
+,{"lineaAcordes":"Em           C        D     G C   D   ","lineaLetras":"Woooo, we're halfway there, wooo, livin' on a prayer.   "}
+,{"lineaAcordes":"Em       C          D   ","lineaLetras":"Take my hand we'll make it, I swear   "}
+,{"lineaAcordes":"G  C  D7sus4   ","lineaLetras":"Wooo, livin' on a prayer"}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":"Tommy's got his six string in hock,   "}
+,{"lineaAcordes":"","lineaLetras":"now he's holding in, what he used to make it talk   "}
+,{"lineaAcordes":"","lineaLetras":"So tough, it's so tough.   "}
+,{"lineaAcordes":"","lineaLetras":"Gina dreams of running away   "}
+,{"lineaAcordes":"","lineaLetras":"When she cries in the night, Tommy whispers:   "}
+,{"lineaAcordes":"","lineaLetras":"Baby it's O.K., some day.   "}
+,{"lineaAcordes":"","lineaLetras":"We've got to hold on ....   "}
+,{"lineaAcordes":"Em  C           D           G          C       D   ","lineaLetras":"Woooo, we're halfway there, wooo, livin' on a prayer.   "}
+,{"lineaAcordes":"Em       C          D   ","lineaLetras":"Take my hand we'll make it, I swear   "}
+,{"lineaAcordes":"G  C  D   ","lineaLetras":"Wooo, livin' on a prayer   "}
+,{"lineaAcordes":"C   ","lineaLetras":"Livin' on a prayer."}
+,{"lineaAcordes":"Solo: Em C D G C D ...   ","lineaLetras":""}
+,{"lineaAcordes":"Em                        C   D             Em D   ","lineaLetras":"Oooooooooh, we've got to hold on, ready or not   "}
+,{"lineaAcordes":"      C                           D   ","lineaLetras":"You live for the fight when it's all that you've got.   "}
+,{"lineaAcordes":"Bb   Eb        Fsus4     F   ","lineaLetras":"Woooooo, we're half way there   "}
+,{"lineaAcordes":"Bb   Eb  F7sus4   ","lineaLetras":"Woooooo, livin' on a prayer   "}
+,{"lineaAcordes":"Gm      Eb             F   ","lineaLetras":"Take my hand and we'll make it I swear   "}
+,{"lineaAcordes":"Bb  Eb F7sus4   ","lineaLetras":"Woooo, livin on a prayer"}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Camilo Sesto","Titulo":"Vivir así es morir de amor","Estrofas":[{"lineaAcordes":"Em","lineaLetras":"Siempre me traiciona la razón"}
+,{"lineaAcordes":"                   Am","lineaLetras":"y me domina el corazón"}
+,{"lineaAcordes":"         D               G  B7","lineaLetras":"no sé luchar contra el amor"}
+,{"lineaAcordes":" Em","lineaLetras":"siempre me voy a enamorar"}
+,{"lineaAcordes":"                        Am   D","lineaLetras":"de quien de mí no se enamora"}
+,{"lineaAcordes":"                        G","lineaLetras":"es por eso que mi alma llora."}
+,{"lineaAcordes":"  C            Em  C           Em","lineaLetras":"Y ya no puedo más, ya no puedo más"}
+,{"lineaAcordes":"C                                D","lineaLetras":"siempre se repite esta misma historia"}
+,{"lineaAcordes":"C           Em    C           Em","lineaLetras":"ya no puedo más, ya no puedo más"}
+,{"lineaAcordes":"       C         Am            D    B7   C","lineaLetras":"estoy harto de rodar como una noria."}
+,{"lineaAcordes":"   G           Bm          Dm","lineaLetras":"Vivir así es morir de amor"}
+,{"lineaAcordes":"                           G     Dm","lineaLetras":"y por amor tengo el alma herida"}
+,{"lineaAcordes":"          Cm                            G","lineaLetras":"por amor ,    no quiero más vida que su vida"}
+,{"lineaAcordes":"      D       C","lineaLetras":"melancolía."}
+,{"lineaAcordes":"   G           Bm          Dm","lineaLetras":"Vivir así es morir de amor"}
+,{"lineaAcordes":"                   G      Dm","lineaLetras":"soy mendigo de sus besos"}
+,{"lineaAcordes":"              Cm                         G","lineaLetras":"soy su amigo,    quiero ser algo más que eso"}
+,{"lineaAcordes":"        D    B7","lineaLetras":"melancolía."}
+,{"lineaAcordes":" Em","lineaLetras":"Siempre se apodera de mi ser"}
+,{"lineaAcordes":"                         Am","lineaLetras":"mi serenidad se vuelve locura"}
+,{"lineaAcordes":"       D            G   B7","lineaLetras":"y me llena de amargura"}
+,{"lineaAcordes":"Em","lineaLetras":"siempre me voy a enamorar"}
+,{"lineaAcordes":"                        Am   D","lineaLetras":"de quien de mí no se enamora"}
+,{"lineaAcordes":"                        G","lineaLetras":"es por eso que mi alma llora."}
+,{"lineaAcordes":"  C           Em   C           Em","lineaLetras":"Y ya no puedo más, ya no puedo más"}
+,{"lineaAcordes":"C                              D","lineaLetras":"siempre se repite la misma historia"}
+,{"lineaAcordes":" C          Em     C           Em","lineaLetras":"ya no puedo más, ya no puedo más"}
+,{"lineaAcordes":"       C         Am            D    B7   C","lineaLetras":"estoy harto de rodar como una noria."}
+,{"lineaAcordes":"   G           Bm          Dm","lineaLetras":"Vivir así es morir de amor"}
+,{"lineaAcordes":"                         G     Dm","lineaLetras":"por amor tengo el alma herida"}
+,{"lineaAcordes":"          Cm                            G","lineaLetras":"por amor ,    no quiero más vida que su vida"}
+,{"lineaAcordes":"        D    C","lineaLetras":"melancolía."}
+,{"lineaAcordes":"   G           Bm          Dm","lineaLetras":"Vivir así es morir de amor"}
+,{"lineaAcordes":"                   G      Dm","lineaLetras":"soy mendigo de sus besos"}
+,{"lineaAcordes":"              Cm                         G","lineaLetras":"soy su amigo,    quiero ser algo más que eso"}
+,{"lineaAcordes":"        D    C","lineaLetras":"melancolía... "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Creedence clearwater revival","Titulo":"Fortunate son","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: G F C7"}
+,{"lineaAcordes":"G                    F","lineaLetras":"Some folks are born made to wave the flag,"}
+,{"lineaAcordes":"C7                          G","lineaLetras":"ooh, they're red, white and blue."}
+,{"lineaAcordes":"G                        F","lineaLetras":"And when the band plays \"Hail to the chief\""}
+,{"lineaAcordes":"C7                             G","lineaLetras":"they point the cannon right at you."}
+,{"lineaAcordes":"G            D7           C7               G","lineaLetras":"It ain't me, it ain't me, I'm no senator's son."}
+,{"lineaAcordes":"G            D7           C7               G","lineaLetras":"It ain't me, it ain't me, I'm no fortunate one."}
+,{"lineaAcordes":"","lineaLetras":"Some folks are born silver spoon in hand,"}
+,{"lineaAcordes":"","lineaLetras":"Lord, don't they help themselves."}
+,{"lineaAcordes":"","lineaLetras":"But when the tax man comes to the door:"}
+,{"lineaAcordes":"","lineaLetras":"\"Lord, the house looks like a rummage sale.\""}
+,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no millionaire's son."}
+,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no fortunate one."}
+,{"lineaAcordes":"(break: G  Gº  C  G)","lineaLetras":"Some folks inherit star spangled eyes,"}
+,{"lineaAcordes":"","lineaLetras":"ooh, they send you down to war."}
+,{"lineaAcordes":"","lineaLetras":"And when you ask them: \"How much should we give?\""}
+,{"lineaAcordes":"","lineaLetras":"Oh, they only answer: \"More, more, more\""}
+,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no military's son."}
+,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no fortunate one."}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Creedence clearwater revival","Titulo":"Have you ever seen the rain","Estrofas":[{"lineaAcordes":"Intro: (Am F C G)  ","lineaLetras":""}
+,{"lineaAcordes":"  C  ","lineaLetras":"    Someone told me long ago  "}
+,{"lineaAcordes":"      G                                         C  ","lineaLetras":"    There's a calm before the storm  "}
+,{"lineaAcordes":"","lineaLetras":"    I know, it’s been coming for some time  "}
+,{"lineaAcordes":"","lineaLetras":"    When its over so they say   "}
+,{"lineaAcordes":"      G                                            C      C7  ","lineaLetras":"    It'll rain a sunny day  "}
+,{"lineaAcordes":"","lineaLetras":"    I know, shinin' down like water  "}
+,{"lineaAcordes":"   F           G              C    C/B      Am   Am/G   ","lineaLetras":"CHORUS -----------------------------------------"}
+,{"lineaAcordes":"  F           G              C    C/B      Am   Am/G  ","lineaLetras":"    I want to know, have you ever seen the rain   "}
+,{"lineaAcordes":"  F        G               C  ","lineaLetras":"    I want to know, have you ever seen the rain  "}
+,{"lineaAcordes":"","lineaLetras":"    Comin' down on a sunny day"}
+,{"lineaAcordes":"   C  ","lineaLetras":"-----------------------------------------------"}
+,{"lineaAcordes":"","lineaLetras":"    Yesterday and days before  "}
+,{"lineaAcordes":"      G                       C  ","lineaLetras":"    Sun is cold and rain is hot  "}
+,{"lineaAcordes":"","lineaLetras":"    I know, been that way for all my time       "}
+,{"lineaAcordes":"","lineaLetras":"    'Til forever on it goes  "}
+,{"lineaAcordes":"      G                        C        C7  ","lineaLetras":"    Through the circle fast and slow  "}
+,{"lineaAcordes":"","lineaLetras":"    I know, It can't stop, I wonder  "}
+,{"lineaAcordes":"   F           G              C    C/B   Am       Am/G  ","lineaLetras":"CHORUS -----------------------------------------"}
+,{"lineaAcordes":"  F           G              C    C/B   Am      Am/G  ","lineaLetras":"    I want to know, have you ever seen the rain   "}
+,{"lineaAcordes":"  F        G               C  ","lineaLetras":"    I want to know, have you ever seen the rain  "}
+,{"lineaAcordes":"","lineaLetras":"    Comin' down on a sunny day"}
+,{"lineaAcordes":"","lineaLetras":"-----------------------------------------------"}
+,{"lineaAcordes":"","lineaLetras":"   2x  "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Creedence Clearwater Revival","Titulo":"Bad Moon Rising","Estrofas":[{"lineaAcordes":"D","lineaLetras":""}
+,{"lineaAcordes":"D        A   G      D          (D Bm) ","lineaLetras":"I see a bad moon a rising, "}
+,{"lineaAcordes":"D       A     G       D    (D Bm) ","lineaLetras":"I see trouble on the way. "}
+,{"lineaAcordes":"D       A        G                D          (D Bm) ","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":"I see earthquakes and lightning, "}
+,{"lineaAcordes":"D         A   G             D       (D Bm) ","lineaLetras":"I see bad times today. "}
+,{"lineaAcordes":"G ","lineaLetras":"CHORUS -----------------------------------------"}
+,{"lineaAcordes":"                  D                ","lineaLetras":"Don't go around tonight. "}
+,{"lineaAcordes":"A                 G                              D    (D Bm) ","lineaLetras":"Well, it's bound to take your life. "}
+,{"lineaAcordes":"","lineaLetras":"There is a bad moon on the rise."}
+,{"lineaAcordes":"","lineaLetras":"-----------------------------------------------"}
+,{"lineaAcordes":"D          A       G              D ","lineaLetras":"I hear hurricanes a-blowing, "}
+,{"lineaAcordes":"D                  A         G             D ","lineaLetras":"I know the end is coming soon. "}
+,{"lineaAcordes":"D         A       G       D ","lineaLetras":"I fear rivers overflowing, "}
+,{"lineaAcordes":"D                 A           G               D ","lineaLetras":"I hear the voice of rage and ruin. "}
+,{"lineaAcordes":"","lineaLetras":"REFRÃO (Chorus) "}
+,{"lineaAcordes":"D                 A              G             D ","lineaLetras":"Hope you got your things together, "}
+,{"lineaAcordes":"D                        A              G             D ","lineaLetras":"Hope you are quite prepared to die. "}
+,{"lineaAcordes":"D                         A           G          D ","lineaLetras":"Looks like we're in for nasty weather. "}
+,{"lineaAcordes":"D                   A       G         D ","lineaLetras":"One eye is taken for an eye. "}
+,{"lineaAcordes":"","lineaLetras":"REFRÃO (Chorus)"}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Creedence Clearwater Revival","Titulo":"Proud Mary","Estrofas":[{"lineaAcordes":"tono: D","lineaLetras":""}
+,{"lineaAcordes":"Intro: C  A  C  A","lineaLetras":""}
+,{"lineaAcordes":"       C  A  G  F  D","lineaLetras":""}
+,{"lineaAcordes":"D","lineaLetras":"Left a good job in the city, "}
+,{"lineaAcordes":"","lineaLetras":"workin' for the man every night and day"}
+,{"lineaAcordes":"","lineaLetras":"And I never lost one minute of sleepin', "}
+,{"lineaAcordes":"            A","lineaLetras":"worryin' 'bout the way things might have been.  "}
+,{"lineaAcordes":"Bm     ","lineaLetras":"Big wheel a-keep on turnin'  "}
+,{"lineaAcordes":"     D","lineaLetras":"Proud Mary keep on burnin',"}
+,{"lineaAcordes":"","lineaLetras":"Roll - in', rollin', rollin' on the river"}
+,{"lineaAcordes":"D","lineaLetras":"Cleaned a lot of plates in Memphis,  "}
+,{"lineaAcordes":"","lineaLetras":"pumped a lot of pain down in New Orleans,  "}
+,{"lineaAcordes":"","lineaLetras":"But I never saw the good side of the city, "}
+,{"lineaAcordes":"A                                                   Bm","lineaLetras":"till I hitched a ride on a river boat queen."}
+,{"lineaAcordes":"     D","lineaLetras":"Big wheel a-keep on turnin,  Proud  Mary keep on burnin',"}
+,{"lineaAcordes":"","lineaLetras":"roll - in, rollin, rollin on the river."}
+,{"lineaAcordes":"","lineaLetras":"intro"}
+,{"lineaAcordes":"","lineaLetras":"solo"}
+,{"lineaAcordes":"     D","lineaLetras":"roll - in, rollin, rollin on the river."}
+,{"lineaAcordes":"","lineaLetras":"intro"}
+,{"lineaAcordes":"D","lineaLetras":"if you come down to the river, "}
+,{"lineaAcordes":"","lineaLetras":"bet you're gonna find some people who live,"}
+,{"lineaAcordes":"","lineaLetras":"you don't have to worry, cause you have no money, "}
+,{"lineaAcordes":"                A","lineaLetras":"people on the river are happy to give."}
+,{"lineaAcordes":"      Bm","lineaLetras":"Big wheel keep on turnin, "}
+,{"lineaAcordes":"","lineaLetras":"Proud  Mary keep on burnin,"}
+,{"lineaAcordes":"    D","lineaLetras":"roll - in,  rollin,  rollin on the river."}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Darkness","Titulo":"Friday Night","Estrofas":[{"lineaAcordes":"Intro -  E","lineaLetras":""}
+,{"lineaAcordes":"E                                               B","lineaLetras":"E--0----------------I-------------------------------------------------"}
+,{"lineaAcordes":"","lineaLetras":"B-----5h-4h-0-------I-------------------------------------------------"}
+,{"lineaAcordes":"","lineaLetras":"G-------------6--2--I-------------------------------------------------"}
+,{"lineaAcordes":"","lineaLetras":"D-------------------I--2----------2--------2---4----------------------"}
+,{"lineaAcordes":"","lineaLetras":"A-------------------I---------0--------(0)----------------------------"}
+,{"lineaAcordes":"","lineaLetras":"E-------------------I------0---------0--0-----------------------------"}
+,{"lineaAcordes":"","lineaLetras":"Verse 1"}
+,{"lineaAcordes":"(A) B","lineaLetras":"Hey you!"}
+,{"lineaAcordes":"         G#m        A","lineaLetras":"Do you remember me"}
+,{"lineaAcordes":"                             F#m","lineaLetras":"I used to sit next to you at school"}
+,{"lineaAcordes":"      B                                   G#m       A","lineaLetras":"We indulged in all the extra-curricular activities"}
+,{"lineaAcordes":"                         F#m","lineaLetras":"We weren't particularly cool"}
+,{"lineaAcordes":"      E","lineaLetras":"Chorus 1"}
+,{"lineaAcordes":"C#m","lineaLetras":"Oooh, Monday cycling"}
+,{"lineaAcordes":"A                   B","lineaLetras":"Tuesday gymnastics"}
+,{"lineaAcordes":"      E","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"C#m","lineaLetras":"I got Bridge Club on Wednesday"}
+,{"lineaAcordes":"A                   B","lineaLetras":"Archery on Thursday"}
+,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"     B","lineaLetras":"Verse 2"}
+,{"lineaAcordes":"               G#m          A","lineaLetras":"Hey you!"}
+,{"lineaAcordes":"                   F#m","lineaLetras":"Could you ever fall for me....oooh"}
+,{"lineaAcordes":"          B                               G#m     A","lineaLetras":"The way I fell for you"}
+,{"lineaAcordes":"                                  F#m","lineaLetras":"And do you dwell upon the thoughts that I occupy"}
+,{"lineaAcordes":"","lineaLetras":"Or do you give yourself things to do"}
+,{"lineaAcordes":"     E","lineaLetras":"Chorus 2"}
+,{"lineaAcordes":"C#m","lineaLetras":"Oooh Monday rowing"}
+,{"lineaAcordes":"A                   B","lineaLetras":"Tuesday badminton"}
+,{"lineaAcordes":"      E","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"C#m","lineaLetras":"I got ping pong on Wednesday"}
+,{"lineaAcordes":"A                   B","lineaLetras":"Needlework on Thursday"}
+,{"lineaAcordes":"               E(Strums out to intro)","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"","lineaLetras":"With you, with you"}
+,{"lineaAcordes":"","lineaLetras":"(Played as chorus)"}
+,{"lineaAcordes":"","lineaLetras":"Monday, Tuesday"}
+,{"lineaAcordes":"","lineaLetras":"Wednesday, Thursday"}
+,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"","lineaLetras":"Let the music smother me"}
+,{"lineaAcordes":"","lineaLetras":"Whole weekend recovery"}
+,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"","lineaLetras":"See the lady I adore"}
+,{"lineaAcordes":"","lineaLetras":"Dancing on the dancing floor"}
+,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"","lineaLetras":"God the way she moves moves me"}
+,{"lineaAcordes":"","lineaLetras":"To write bad poetry"}
+,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
+,{"lineaAcordes":"","lineaLetras":"With you."}
 ,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"duncan dhu","Titulo":"Cien gaviotas","Estrofas":[{"lineaAcordes":"G C G C G C G C D D11 D D11","lineaLetras":""}
@@ -388,28 +659,5 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"	   Dm7	            G                 F   C  ","lineaLetras":"And not the words of one who kneels?  "}
 ,{"lineaAcordes":"           Dm7	            G 	              F   C  ","lineaLetras":"The record shows I took the blows and did it my way.  "}
 ,{"lineaAcordes":"","lineaLetras":"The record shows I took the blows and did it my way. "}
-]}
-,{"Artista":"the beatles","Titulo":"I feel fine","Estrofas":[{"lineaAcordes":"Intro: A   D  C  G7    ","lineaLetras":""}
-,{"lineaAcordes":"     G7  ","lineaLetras":"1.  Baby's good to me you know, she's happy as can be, you know  "}
-,{"lineaAcordes":"            D                                          C                     G7 ","lineaLetras":"    she said so. I'm in love with her and I feel fine.  "}
-,{"lineaAcordes":"     G7                  ","lineaLetras":""}
-,{"lineaAcordes":"             D                                         C                     G7 ","lineaLetras":"2.  Baby says she's mine, you know, she tells me all the time, you know  "}
-,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
-,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":""}
-,{"lineaAcordes":"                   G7  ","lineaLetras":"Chorus: I'm so glad that she's my little girl.  "}
-,{"lineaAcordes":"                                     C                         G7  ","lineaLetras":"       She's so glad she's telling all the world..  "}
-,{"lineaAcordes":"","lineaLetras":"3.  That her baby buys her things, you know,  "}
-,{"lineaAcordes":"     Instrumental: G7 D C G7 ","lineaLetras":"                                                                                  D "}
-,{"lineaAcordes":"     G7                  ","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
-,{"lineaAcordes":"             D                                         C                        G7 ","lineaLetras":"     She's in love with me  and I feel fine. "}
-,{"lineaAcordes":"         G       Bm         C                       D ","lineaLetras":"4.  Baby says she's mine, you know, she tells me all the time, you know  "}
-,{"lineaAcordes":"                                G              Bm             C                     D  ","lineaLetras":"     she said so. I'm in love with her and I feel fine.  "}
-,{"lineaAcordes":"                   G7  ","lineaLetras":"Chorus: I'm so glad that she's my little girl.  "}
-,{"lineaAcordes":"                                       C                     G7  ","lineaLetras":"       She's so glad she's telling all the world..   "}
-,{"lineaAcordes":"      D                             C                 G7  ","lineaLetras":"5.  That her baby buys her things, you know,  "}
-,{"lineaAcordes":"","lineaLetras":"                                                                    D "}
-,{"lineaAcordes":"","lineaLetras":"     He buys her diamond rings you know, she said so.  "}
-,{"lineaAcordes":"","lineaLetras":"     She's in love with me  and I feel fine. "}
-,{"lineaAcordes":"","lineaLetras":"     She's in love with me  and I feel fine.  "}
 ]}
 ];
