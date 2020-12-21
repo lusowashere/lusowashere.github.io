@@ -25,6 +25,8 @@
 			font-family: 'Courier New', Courier, monospace;
 			color:blue;
 			font-weight: bold;
+			/*width: 1000px;*/
+			
 		}
 
 		.filaLetras{
@@ -101,8 +103,8 @@
 
 			for(j=0;j<canciones[numeroCancion].Estrofas.length;j++){
 				var estrofa=canciones[numeroCancion].Estrofas[j];
-				var lineaAcordes=estrofa.lineaAcordes.replace(/ /g,"&nbsp;");
-				htmlCancion+="<div class=filaAcordes>"+lineaAcordes+"</div><div class=filaLetras>"+limpiarAcentos(estrofa.lineaLetras).replace(/ /g,"&nbsp;")+"</div><br>";
+				var lineaAcordes=estrofa.lineaAcordes.replace(/ /g,"&nbsp;").replace(/-/g,"&#8209;");
+				htmlCancion+="<div class=filaAcordes>"+lineaAcordes+"</div><div class=filaLetras>"+limpiarAcentos(estrofa.lineaLetras).replace(/ /g,"&nbsp;").replace(/-/g,"&#8209;")+"</div>"+/*<br>+*/"";
 			}
 
 
