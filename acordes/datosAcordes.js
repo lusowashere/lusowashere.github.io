@@ -378,6 +378,35 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"Bb  Eb F7sus4   ","lineaLetras":"Woooo, livin on a prayer"}
 ,{"lineaAcordes":"","lineaLetras":""}
 ]}
+,{"Artista":"Bon Jovi","Titulo":"Runaway","Estrofas":[{"lineaAcordes":"Am                                                G","lineaLetras":"On the street where you live girls talk about their social lives "}
+,{"lineaAcordes":"                 E                    F                        Am         ","lineaLetras":"They re made of lipstick, plastic and paint, a touch of sable  in their eyes "}
+,{"lineaAcordes":"Am                                                    G","lineaLetras":"All your life all you ask is when your Daddy?s gonna talk to you "}
+,{"lineaAcordes":"        E                 G                         Am                            ","lineaLetras":"You?re living in another world, trying to get your  messages through "}
+,{"lineaAcordes":"E              G               Am                                                ","lineaLetras":"No one heard a single word you said "}
+,{"lineaAcordes":"                Dm                                                              ","lineaLetras":"They should?ve  seen it in your eyes "}
+,{"lineaAcordes":"         C                 G                                                   ","lineaLetras":"What was going around your head "}
+,{"lineaAcordes":" Am                   G                                                          ","lineaLetras":" "}
+,{"lineaAcordes":" C                    Em  G                   Am                                    ","lineaLetras":"Ooooh she's a little  runaway "}
+,{"lineaAcordes":" G     E                                                                         ","lineaLetras":"Daddy's girl learned fast all those things he couldn't say "}
+,{"lineaAcordes":"","lineaLetras":"Ooooh  she's a little runaway "}
+,{"lineaAcordes":"Am                                         G                                    ","lineaLetras":"A different line every night guaranteed to blow your mind "}
+,{"lineaAcordes":"E                     F                      Am                                   ","lineaLetras":"I see you out on the  streets, call me for a wild time "}
+,{"lineaAcordes":" Am                                               G                              ","lineaLetras":"So you sit home alone cause there's nothing left  that you can do "}
+,{"lineaAcordes":"              E                    G                     Am                       ","lineaLetras":"There's only pictures hung in the  shadows left there to look at you"}
+,{"lineaAcordes":"E                      G                      Am                                   ","lineaLetras":"You know she likes the lights at night on the neon Broadway signs"}
+,{"lineaAcordes":"Dm                               C                 G                               ","lineaLetras":"She don't really mind, it's only love she hoped to find "}
+,{"lineaAcordes":" Am                   G                                                          ","lineaLetras":"                                                                              "}
+,{"lineaAcordes":" C                    Em  G                   Am                                    ","lineaLetras":"Ooooh she's a little  runaway "}
+,{"lineaAcordes":" G     E                                                                         ","lineaLetras":"Daddy's girl learned fast all those things he couldn't say "}
+,{"lineaAcordes":"","lineaLetras":"Ooooh  she's a little runaway "}
+,{"lineaAcordes":"E              G               Am                                                ","lineaLetras":"                                                                              "}
+,{"lineaAcordes":"                Dm                                                              ","lineaLetras":"No one heard a single word you said "}
+,{"lineaAcordes":"         C                 G                                                   ","lineaLetras":"They should?ve  seen it in your eyes "}
+,{"lineaAcordes":"","lineaLetras":"What was going around your head "}
+,{"lineaAcordes":"","lineaLetras":"                                                                              "}
+,{"lineaAcordes":"","lineaLetras":"Ooooh... she's a little runaway... "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
 ,{"Artista":"Camilo Sesto","Titulo":"Vivir así es morir de amor","Estrofas":[{"lineaAcordes":"Em","lineaLetras":"Siempre me traiciona la razón"}
 ,{"lineaAcordes":"                   Am","lineaLetras":"y me domina el corazón"}
 ,{"lineaAcordes":"         D               G  B7","lineaLetras":"no sé luchar contra el amor"}
@@ -568,6 +597,85 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"With you."}
 ,{"lineaAcordes":"","lineaLetras":""}
 ]}
+,{"Artista":"Dire Straits","Titulo":"Sultans of swing","Estrofas":[{"lineaAcordes":"Dm / C  C / Dm / C  C  ","lineaLetras":""}
+,{"lineaAcordes":"           Dm  ","lineaLetras":"you get a shiver in the dark  "}
+,{"lineaAcordes":"         C           Bb         A                           A – Asus – A ","lineaLetras":"it's raining in the park but meantime  "}
+,{"lineaAcordes":"Dm                      C           Bb          A      A7","lineaLetras":"south of the river you stop and you hold everything  "}
+,{"lineaAcordes":"F                               C  ","lineaLetras":"a band is blowing Dixie double four time  "}
+,{"lineaAcordes":"        Bb                                 Dm                                Bb - C  ","lineaLetras":"you feel alright when you hear that music ring  "}
+,{"lineaAcordes":"           Dm              C        Bb          A                              A – Asus – A","lineaLetras":" you step inside but you don't see too many faces  "}
+,{"lineaAcordes":" Dm              C                        Bb      A          A7","lineaLetras":"coming in out of the rain to (you) hear the jazz go down  "}
+,{"lineaAcordes":"F                       C  ","lineaLetras":"too much competition in other places  "}
+,{"lineaAcordes":"Bb                                    Dm  ","lineaLetras":"but not too many horns can make that sound  "}
+,{"lineaAcordes":"Bb  C  ","lineaLetras":"(But not too many horns are blowing that sound)  "}
+,{"lineaAcordes":"Bb  C  ","lineaLetras":"        way on downsouth  "}
+,{"lineaAcordes":"Dm              ","lineaLetras":"        way on downsouth  "}
+,{"lineaAcordes":"","lineaLetras":"London town"}
+,{"lineaAcordes":"Dm  Bb C       ","lineaLetras":""}
+,{"lineaAcordes":"Dm  Bb C  C7","lineaLetras":""}
+,{"lineaAcordes":"                Dm          C       Bb          A                           A – Asus – A","lineaLetras":"you check out Guitar George he knows all the chords  "}
+,{"lineaAcordes":"Dm                    C              Bb               ","lineaLetras":"mind he's (his) strictly rhythm he doesn't want to   "}
+,{"lineaAcordes":"       A            A7","lineaLetras":"make it cry or sing  "}
+,{"lineaAcordes":"F                       C  ","lineaLetras":"and an old guitar is all he can afford  "}
+,{"lineaAcordes":"Bb                                         Dm   Bb C  ","lineaLetras":"when he gets up under the lights to play his thing  "}
+,{"lineaAcordes":"Dm                      C     Bb         A  ","lineaLetras":"  (and) harry doesnb't mind if he doesn't make the scene  "}
+,{"lineaAcordes":"Dm             C        Bb                  A  ","lineaLetras":"  he('s) got a daytime job he's doing al(l)right  "}
+,{"lineaAcordes":"F                               C  ","lineaLetras":"  he can play honky tone just like anything  "}
+,{"lineaAcordes":"","lineaLetras":"(He can play the honky tonk like anything)  "}
+,{"lineaAcordes":"Bb                      Dm      Bb C  ","lineaLetras":"  saving it up for friday night  "}
+,{"lineaAcordes":"                  Bb C  ","lineaLetras":"with the sultans  "}
+,{"lineaAcordes":"                     Dm       ","lineaLetras":"with the sultans of swing"}
+,{"lineaAcordes":"Dm Bb C  ","lineaLetras":""}
+,{"lineaAcordes":"Dm  Bb C  ","lineaLetras":""}
+,{"lineaAcordes":"Dm                     C           Bb            A         	A – Asus – A","lineaLetras":"and a crowd of young boys they're fooling around in the corner  "}
+,{"lineaAcordes":"Dm                 C                Bb             ","lineaLetras":"drunk and dressed in their best brown baggies and   "}
+,{"lineaAcordes":"     A      A7","lineaLetras":"their platform soles  "}
+,{"lineaAcordes":"F                                       C  ","lineaLetras":"they don't give a damn about ('bout) any trumpet playing band  "}
+,{"lineaAcordes":"   Bb                           Dm      Bb C  ","lineaLetras":"it ain't what they call rock and roll  "}
+,{"lineaAcordes":"                Bb C  ","lineaLetras":"and the sultans  "}
+,{"lineaAcordes":"                        Dm     Dm C Bb C  ","lineaLetras":"and the sultans played creole  "}
+,{"lineaAcordes":"","lineaLetras":"(Yeah the Sultans they played Creole)  "}
+,{"lineaAcordes":"                                Dm C Bb C  ","lineaLetras":""}
+,{"lineaAcordes":"Dm                    C         Bb         A  	","lineaLetras":"and then the man he steps right up to the microphone  "}
+,{"lineaAcordes":"Dm          C                Bb         A    (A7)  ","lineaLetras":"and says at last just as the time bell rings  "}
+,{"lineaAcordes":"F                           C  ","lineaLetras":"thank you goodnight now it's time to go home  "}
+,{"lineaAcordes":"        Bb                  Dm          Bb C  ","lineaLetras":"and he makes it fast with one more thing  "}
+,{"lineaAcordes":"                  Bb C  ","lineaLetras":"we are the sultans  "}
+,{"lineaAcordes":"                      Dm        Dm C Bb C  ","lineaLetras":"we are the sultans of swing  "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Dire Straits","Titulo":"Walk of life","Estrofas":[{"lineaAcordes":"        E          A       B        A       B     E ","lineaLetras":"Here comes Johnny singing oldies, goldies  Be-Bop-A-Lula, Baby What I Say "}
+,{"lineaAcordes":"","lineaLetras":"Here comes Johnny singing I Gotta Woman   "}
+,{"lineaAcordes":"A                                        ","lineaLetras":"Down in the tunnels, trying to make it pay "}
+,{"lineaAcordes":"E","lineaLetras":"He got the action, He got the motion"}
+,{"lineaAcordes":"A                      E ","lineaLetras":"Yeah the boy can play "}
+,{"lineaAcordes":"E                                     B ","lineaLetras":"Dedication, devotion   Turning all the night time into the day "}
+,{"lineaAcordes":"          E                     A ","lineaLetras":"He do the song about the sweet lovin' woman "}
+,{"lineaAcordes":"          E7   B                  A         B                   E    A  B  A B ","lineaLetras":"He do the song about the knife "}
+,{"lineaAcordes":"E ","lineaLetras":"He do the walk, he do the walk of life. Yeah, he do the walk of life "}
+,{"lineaAcordes":"","lineaLetras":"Here comes Johnny and he'll tell you the story "}
+,{"lineaAcordes":"","lineaLetras":"Hand me down my walkin' shoe "}
+,{"lineaAcordes":"","lineaLetras":"Here come Johnny with the power and the glory "}
+,{"lineaAcordes":"A ","lineaLetras":"Backbeat the talkin' blues "}
+,{"lineaAcordes":"E ","lineaLetras":"He got the action, He got the motion "}
+,{"lineaAcordes":"A ","lineaLetras":"Yeah the boy can play "}
+,{"lineaAcordes":"E ","lineaLetras":"Dedication, devotion "}
+,{"lineaAcordes":"E                                     B ","lineaLetras":"Turning all the night time into the day "}
+,{"lineaAcordes":"         E                     A ","lineaLetras":"He do the song about the sweet lovin' woman "}
+,{"lineaAcordes":"          E7  B                   A      B                       E  A B A B ","lineaLetras":"He do the song about the knife "}
+,{"lineaAcordes":"E ","lineaLetras":"He do the walk, he do the walk of life.  Yeah, he do the walk of life "}
+,{"lineaAcordes":"","lineaLetras":"Here comes Johnny singing oldies, goldies  Be-Bop-A-Lula, Baby What I Say "}
+,{"lineaAcordes":"","lineaLetras":"Here comes Johnny singing I Gotta Woman   "}
+,{"lineaAcordes":"A ","lineaLetras":"Down in the tunnels, trying to make it pay "}
+,{"lineaAcordes":"E ","lineaLetras":"He got the action, He got the motion "}
+,{"lineaAcordes":"A ","lineaLetras":"Yeah the boy can play "}
+,{"lineaAcordes":"E ","lineaLetras":"Dedication, devotion "}
+,{"lineaAcordes":"E                              B ","lineaLetras":"Turning all the night time into the day "}
+,{"lineaAcordes":"               E                               A ","lineaLetras":"And after all the violence and double talk "}
+,{"lineaAcordes":"           E7  B                    A        B                     E  A B A B ","lineaLetras":"There's just a song in all the trouble and the strife "}
+,{"lineaAcordes":"","lineaLetras":"You do the walk, you do the walk of life. Yeah, you do the walk of life "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
 ,{"Artista":"duncan dhu","Titulo":"Cien gaviotas","Estrofas":[{"lineaAcordes":"G C G C G C G C D D11 D D11","lineaLetras":""}
 ,{"lineaAcordes":"  A                      Em                 C ","lineaLetras":"Hoy el viento sopla más de lo normal      "}
 ,{"lineaAcordes":"       A                Em             C ","lineaLetras":"Las olas intentando salirse del mar"}
@@ -597,6 +705,48 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"                       G  C        G  C        G  C","lineaLetras":"sus alas a volar"}
 ,{"lineaAcordes":"","lineaLetras":" cien gaviotas dónde irán, dónde irán, dónde irán...."}
 ,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"Eagles","Titulo":"Hotel california","Estrofas":[{"lineaAcordes":"Em   B7/D#   Dsus2   A9/C#   C   G   Am7   B7/D (2X) ","lineaLetras":"  "}
+,{"lineaAcordes":"Em                        B7/D ","lineaLetras":"On a dark desert highway, cool wind in my hair "}
+,{"lineaAcordes":"Dsus2                      A9/C# ","lineaLetras":"Warm smell of colitas, rising up through the air "}
+,{"lineaAcordes":"C                         G ","lineaLetras":"Up ahead in the distance, I saw a shimmering light "}
+,{"lineaAcordes":"Am7 ","lineaLetras":"My head grew heavy and my sight grew dim "}
+,{"lineaAcordes":"B7 ","lineaLetras":"I had to stop for the night "}
+,{"lineaAcordes":"Em                               B7/D ","lineaLetras":"  "}
+,{"lineaAcordes":"Dsus2                                          A9/C ","lineaLetras":"There she stood in the doorway,  I heard the mission bell "}
+,{"lineaAcordes":"C                        G ","lineaLetras":"And I was thinking to myself this could be heaven or this could be hell "}
+,{"lineaAcordes":"Am7                                   B7 ","lineaLetras":"Then she lit up a candle, and she showed me the way "}
+,{"lineaAcordes":"","lineaLetras":"There were voices down the corridor, I thought I heard them say: "}
+,{"lineaAcordes":"C                          G ","lineaLetras":"Welcome to the Hotel California "}
+,{"lineaAcordes":"       B7                        Em      ","lineaLetras":"Such a lovely place... such a lovely face "}
+,{"lineaAcordes":"C                                  G ","lineaLetras":"Plenty of room at the Hotel California  "}
+,{"lineaAcordes":"    Am                    B7                       ","lineaLetras":"Any time of year  you can find it here"}
+,{"lineaAcordes":"Em                           B7/D# ","lineaLetras":"  "}
+,{"lineaAcordes":"Dsus2                                      A9/C ","lineaLetras":"Her mind is Tiffany twisted, she got the Mercedes bends, uh! "}
+,{"lineaAcordes":"C                                G ","lineaLetras":"She's got a lot of pretty, pretty boys that she calls friends "}
+,{"lineaAcordes":"Am7                      B7 ","lineaLetras":"How they dance in the courtyard, sweet summer sweat "}
+,{"lineaAcordes":"","lineaLetras":"Some dance to remember, some dance to forget "}
+,{"lineaAcordes":"Em                          B7/D ","lineaLetras":"  "}
+,{"lineaAcordes":"Dsus2                                      A9/C# ","lineaLetras":"So I called up the captain, Please bring me my wine, he said "}
+,{"lineaAcordes":"C                                       G ","lineaLetras":"We haven't had that spirit here since nineteen sixty nine "}
+,{"lineaAcordes":"Am7                                      B7 ","lineaLetras":"And still those voices are calling from far away "}
+,{"lineaAcordes":"","lineaLetras":"Wake you up in the middle of the night, just to hear them say "}
+,{"lineaAcordes":"C                           G ","lineaLetras":"  "}
+,{"lineaAcordes":"       B7                       Em     ","lineaLetras":"Welcome to the Hotel California "}
+,{"lineaAcordes":"C                               G ","lineaLetras":"Such a lovely place such a lovely face "}
+,{"lineaAcordes":"       Am                  B7                                 ","lineaLetras":"Livin it up at the Hotel California "}
+,{"lineaAcordes":"","lineaLetras":"What a nice surprise bring your alibis"}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"Em                      B7/D# ","lineaLetras":"Mirrors on the ceiling, the pink champagne on ice, and she said, "}
+,{"lineaAcordes":"Dsus2                                A9/C# ","lineaLetras":"We are all just prisoners here, of our own device "}
+,{"lineaAcordes":"C                             G ","lineaLetras":"And in the master's chambers, they gathered for the feast "}
+,{"lineaAcordes":"Am7                                              B7 ","lineaLetras":"They stab it with their steely knives, but they just can't kill the beast "}
+,{"lineaAcordes":"Em                     B7/D# ","lineaLetras":"Last thing I remember, I was running for the door "}
+,{"lineaAcordes":"Dsus2                                     A9/C# ","lineaLetras":"I had to find the passage back to the place I was before "}
+,{"lineaAcordes":"C                                  G ","lineaLetras":"Relax said the nightman, We are programmed to receive"}
+,{"lineaAcordes":"Am7                                   B7 ","lineaLetras":"You can check out anytime you like, but you can never leave"}
 ,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Fito y fitipaldis","Titulo":"Quiero Beber Hasta Perder el Control","Estrofas":[{"lineaAcordes":"C                              G","lineaLetras":"Nunca he sentido igual una derrota"}
