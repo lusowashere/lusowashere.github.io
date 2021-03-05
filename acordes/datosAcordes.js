@@ -293,31 +293,31 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"           E7                      A ","lineaLetras":"would you stand up and walk out on me? "}
 ,{"lineaAcordes":"              E             Bm ","lineaLetras":"Lend me your ears and I'll sing you a song "}
 ,{"lineaAcordes":"         E7                      A ","lineaLetras":"and I'll try not to sing out of key. Oh.. "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"        G               D            A ","lineaLetras":"  I get by with a little help from my friends. Mm, I get "}
 ,{"lineaAcordes":"  G                 D            A ","lineaLetras":"  high with a little help from my friends. Mm, I'm gonna "}
 ,{"lineaAcordes":"  G                D            A  ","lineaLetras":"  try with a little help from my friends. "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":" A        E           Bm ","lineaLetras":"What do I do when my love is away, "}
 ,{"lineaAcordes":"         E7               A ","lineaLetras":"does it worry you to be alone? "}
 ,{"lineaAcordes":"          E          Bm ","lineaLetras":"How do I feel by the end of the day, "}
 ,{"lineaAcordes":"         E7                        A ","lineaLetras":"are you sad because you're on your own? No.. "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Chorus "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"  A      F#m7     B7      A         G     D ","lineaLetras":"  Do you need anybody? I need somebody to love. Could it "}
 ,{"lineaAcordes":"  F#m    B7      A        G       D ","lineaLetras":"  be anybody? I want somebody to love. "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":" A           E          Bm ","lineaLetras":"Would you believe in a love at first sight? "}
 ,{"lineaAcordes":"          E7                       A ","lineaLetras":"Yes, I'm certain that it happens all the time. "}
 ,{"lineaAcordes":"             E            Bm ","lineaLetras":"What do you see when you turn out the light? "}
 ,{"lineaAcordes":"         E7                       A ","lineaLetras":"I can't tell you but I know it's mine. Oh.. "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Chorus "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Billy Idol","Titulo":"White Wedding","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro:"}
 ,{"lineaAcordes":"Bm      Bm      Bm      E       D","lineaLetras":""}
@@ -355,123 +355,115 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"It's a nice day to start again"}
 ]}
 ,{"Artista":"Bodyjar","Titulo":"Not the same","Estrofas":[{"lineaAcordes":"","lineaLetras":"  GUITARRA 1 (x2)"}
-,{"lineaAcordes":"        E         C        C#m       A","lineaLetras":" "}
+,{"lineaAcordes":"        E         C        C#m       A","lineaLetras":""}
 ,{"lineaAcordes":"     E ","lineaLetras":"   Think of all the things I do"}
 ,{"lineaAcordes":"     G#","lineaLetras":"   And I still hold the thought of you"}
 ,{"lineaAcordes":"        C#m                             A","lineaLetras":"   With someone else I know its true so faraway"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"And I can only hold my breath"}
 ,{"lineaAcordes":"","lineaLetras":"And start to die a lonely death"}
 ,{"lineaAcordes":"","lineaLetras":"With you and me and all the rest so faraway"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"C#m                    F#m","lineaLetras":"   Don't say I told you so"}
 ,{"lineaAcordes":"C#m                       F#m G# A (golpes rápidos)","lineaLetras":"   One thing you'll never know"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"  A               E","lineaLetras":"   You're not the same"}
 ,{"lineaAcordes":"           C#m","lineaLetras":"   You've changed"}
 ,{"lineaAcordes":"               A           E","lineaLetras":"   1/ I don't need you anyway"}
 ,{"lineaAcordes":"","lineaLetras":"   2/Somthings missing anyway"}
 ,{"lineaAcordes":"                   F#m                                G# A (golpes rápidos)","lineaLetras":"   You're not the person that I believed in yesterday"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"INTRODUCCIÓN 2X"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"I can't hold it back you see"}
 ,{"lineaAcordes":"","lineaLetras":"I know it all comes back to me"}
 ,{"lineaAcordes":"","lineaLetras":"You must have practiced hard to be so faraway"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Never wanted me to show"}
 ,{"lineaAcordes":"","lineaLetras":"Just write me off I let you go"}
 ,{"lineaAcordes":"","lineaLetras":"And now there's more for you to know"}
 ,{"lineaAcordes":"","lineaLetras":"So faraway"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"You're not the same"}
 ,{"lineaAcordes":"","lineaLetras":"You've changed"}
 ,{"lineaAcordes":"","lineaLetras":"1/ I don't need you anyway"}
 ,{"lineaAcordes":"","lineaLetras":"2/Somthings missing anyway"}
 ,{"lineaAcordes":"","lineaLetras":"You're not the person that I believed in yesterday"}
 ,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
-,{"Artista":"Bon Jovi","Titulo":"Living on a prayer","Estrofas":[{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":" Em C D ...   ","lineaLetras":" "}
+,{"Artista":"Bon Jovi","Titulo":"Living on a prayer","Estrofas":[{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":" Em C D ...   ","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"(Once upon a time, not so long ago ....)   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em                                 Em/F# (022002)   ","lineaLetras":"Tommy used to work on the docks   "}
 ,{"lineaAcordes":"Em   ","lineaLetras":"Union's been on strike. He's down on his luck   "}
 ,{"lineaAcordes":"      C      D           Em   ","lineaLetras":"It's tough,   so tough.   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Gina work the dinner all day   "}
 ,{"lineaAcordes":"","lineaLetras":"Working for her man. She brings home her pay   "}
 ,{"lineaAcordes":"","lineaLetras":"For love, for love.   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"                       C   D                Em   ","lineaLetras":"She says we've got to hold on to what we've got.   "}
 ,{"lineaAcordes":"C                 D                           Em   ","lineaLetras":"It doesn't make a difference if we make it or not.   "}
 ,{"lineaAcordes":"       C        D                 Em        C   ","lineaLetras":"We've got each other and that's a lot, for love.   "}
 ,{"lineaAcordes":"      D   ","lineaLetras":"We'll give it a shot.   "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em           C        D     G C   D   ","lineaLetras":"Woooo, we're halfway there, wooo, livin' on a prayer.   "}
 ,{"lineaAcordes":"Em       C          D   ","lineaLetras":"Take my hand we'll make it, I swear   "}
 ,{"lineaAcordes":"G  C  D7sus4   ","lineaLetras":"Wooo, livin' on a prayer"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Tommy's got his six string in hock,   "}
 ,{"lineaAcordes":"","lineaLetras":"now he's holding in, what he used to make it talk   "}
 ,{"lineaAcordes":"","lineaLetras":"So tough, it's so tough.   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Gina dreams of running away   "}
 ,{"lineaAcordes":"","lineaLetras":"When she cries in the night, Tommy whispers:   "}
 ,{"lineaAcordes":"","lineaLetras":"Baby it's O.K., some day.   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"We've got to hold on ....   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em  C           D           G          C       D   ","lineaLetras":"Woooo, we're halfway there, wooo, livin' on a prayer.   "}
 ,{"lineaAcordes":"Em       C          D   ","lineaLetras":"Take my hand we'll make it, I swear   "}
 ,{"lineaAcordes":"G  C  D   ","lineaLetras":"Wooo, livin' on a prayer   "}
 ,{"lineaAcordes":"C   ","lineaLetras":"Livin' on a prayer."}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"Solo: Em C D G C D ...   ","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"Solo: Em C D G C D ...   ","lineaLetras":""}
 ,{"lineaAcordes":"Em                        C   D             Em D   ","lineaLetras":"Oooooooooh, we've got to hold on, ready or not   "}
 ,{"lineaAcordes":"      C                           D   ","lineaLetras":"You live for the fight when it's all that you've got.   "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Bb   Eb        Fsus4     F   ","lineaLetras":"Woooooo, we're half way there   "}
 ,{"lineaAcordes":"Bb   Eb  F7sus4   ","lineaLetras":"Woooooo, livin' on a prayer   "}
 ,{"lineaAcordes":"Gm      Eb             F   ","lineaLetras":"Take my hand and we'll make it I swear   "}
 ,{"lineaAcordes":"Bb  Eb F7sus4   ","lineaLetras":"Woooo, livin on a prayer"}
 ,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Bon Jovi","Titulo":"Runaway","Estrofas":[{"lineaAcordes":"Am                                                G","lineaLetras":"On the street where you live girls talk about their social lives "}
 ,{"lineaAcordes":"                 E                    F                        Am         ","lineaLetras":"They re made of lipstick, plastic and paint, a touch of sable  in their eyes "}
-,{"lineaAcordes":"Am                                                    G","lineaLetras":"All your life all you ask is when your Daddy?s gonna talk to you "}
-,{"lineaAcordes":"        E                 G                         Am                            ","lineaLetras":"You?re living in another world, trying to get your  messages through "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"Am                                                    G","lineaLetras":"All your life all you ask is when your Daddy's gonna talk to you "}
+,{"lineaAcordes":"        E                 G                         Am                            ","lineaLetras":"You're living in another world, trying to get your  messages through "}
 ,{"lineaAcordes":"E              G               Am                                                ","lineaLetras":"No one heard a single word you said "}
-,{"lineaAcordes":"                Dm                                                              ","lineaLetras":"They should?ve  seen it in your eyes "}
+,{"lineaAcordes":"                Dm                                                              ","lineaLetras":"They should've  seen it in your eyes "}
 ,{"lineaAcordes":"         C                 G                                                   ","lineaLetras":"What was going around your head "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":" Am                   G       ","lineaLetras":"Ooooh she's a little  runaway                                                   "}
 ,{"lineaAcordes":" C                    Em  G                   Am                                    ","lineaLetras":"Daddy's girl learned fast all those things he couldn't say"}
 ,{"lineaAcordes":" G     E                                                                          ","lineaLetras":"Ooooh  she's a little runaway "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"Am                                         G                                    ","lineaLetras":"A different line every night guaranteed to blow your mind "}
 ,{"lineaAcordes":"E                     F                      Am                                   ","lineaLetras":"I see you out on the  streets, call me for a wild time "}
 ,{"lineaAcordes":" Am                                               G                              ","lineaLetras":"So you sit home alone cause there's nothing left  that you can do "}
 ,{"lineaAcordes":"              E                    G                     Am                       ","lineaLetras":"There's only pictures hung in the  shadows left there to look at you"}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E                      G                      Am                                   ","lineaLetras":"You know she likes the lights at night on the neon Broadway signs"}
 ,{"lineaAcordes":"Dm                               C                 G                               ","lineaLetras":"She don't really mind, it's only love she hoped to find "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":" Am                   G       ","lineaLetras":"Ooooh she's a little  runaway                                                   "}
 ,{"lineaAcordes":" C                    Em  G                   Am                                    ","lineaLetras":"Daddy's girl learned fast all those things he couldn't say"}
 ,{"lineaAcordes":" G     E                                                                          ","lineaLetras":"Ooooh  she's a little runaway "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E              G               Am                                                ","lineaLetras":"No one heard a single word you said "}
 ,{"lineaAcordes":"                Dm                                                              ","lineaLetras":"They should?ve  seen it in your eyes "}
 ,{"lineaAcordes":"         C                 G                                                   ","lineaLetras":"What was going around your head "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"","lineaLetras":"Ooooh... she's a little runaway... "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ]}
 ,{"Artista":"Camilo Sesto","Titulo":"Vivir así es morir de amor","Estrofas":[{"lineaAcordes":"Em","lineaLetras":"Siempre me traiciona la razón"}
 ,{"lineaAcordes":"                   Am   D","lineaLetras":"y me domina el corazón"}
@@ -515,141 +507,141 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"D       A     G       D    (D Bm) ","lineaLetras":"I see trouble on the way. "}
 ,{"lineaAcordes":"D     A        G       D          (D Bm) ","lineaLetras":"I see earthquakes and lightning, "}
 ,{"lineaAcordes":"D      A   G       D       (D Bm) ","lineaLetras":"I see bad times today. "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"CHORUS -----------------------------------------"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"G ","lineaLetras":"Don't go around tonight. "}
 ,{"lineaAcordes":"            D                ","lineaLetras":"Well, it's bound to take your life."}
 ,{"lineaAcordes":"A           G               D    (D Bm) ","lineaLetras":"There is a bad moon on the rise."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"-----------------------------------------------"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"D       A    G        D ","lineaLetras":"I hear hurricanes a-blowing, "}
 ,{"lineaAcordes":"D          A       G      D ","lineaLetras":"I know the end is coming soon. "}
 ,{"lineaAcordes":"D       A     G     D ","lineaLetras":"I fear rivers overflowing, "}
 ,{"lineaAcordes":"D           A        G        D ","lineaLetras":"I hear the voice of rage and ruin. "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"REFRÃO (Chorus) "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"D         A         G       D ","lineaLetras":"Hope you got your things together, "}
 ,{"lineaAcordes":"D              A       G        D ","lineaLetras":"Hope you are quite prepared to die. "}
 ,{"lineaAcordes":"D                A       G     D ","lineaLetras":"Looks like we're in for nasty weather. "}
 ,{"lineaAcordes":"D           A     G     D ","lineaLetras":"One eye is taken for an eye. "}
 ,{"lineaAcordes":"","lineaLetras":"REFRÃO (Chorus)"}
 ,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
-,{"Artista":"Creedence Clearwater Revival","Titulo":"Fortunate son","Estrofas":[{"lineaAcordes":"Intro: G F C7","lineaLetras":" "}
+,{"Artista":"Creedence Clearwater Revival","Titulo":"Fortunate son","Estrofas":[{"lineaAcordes":"Intro: G F C7","lineaLetras":""}
 ,{"lineaAcordes":"G                    F","lineaLetras":"Some folks are born made to wave the flag,"}
 ,{"lineaAcordes":"C7                          G","lineaLetras":"ooh, they're red, white and blue."}
 ,{"lineaAcordes":"G                        F","lineaLetras":"And when the band plays \"Hail to the chief\""}
 ,{"lineaAcordes":"C7                             G","lineaLetras":"they point the cannon right at you."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"G            D7           C7               G","lineaLetras":"It ain't me, it ain't me, I'm no senator's son."}
 ,{"lineaAcordes":"G            D7           C7               G","lineaLetras":"It ain't me, it ain't me, I'm no fortunate one."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Some folks are born silver spoon in hand,"}
 ,{"lineaAcordes":"","lineaLetras":"Lord, don't they help themselves."}
 ,{"lineaAcordes":"","lineaLetras":"But when the tax man comes to the door:"}
 ,{"lineaAcordes":"","lineaLetras":"\"Lord, the house looks like a rummage sale.\""}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no millionaire's son."}
 ,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no fortunate one."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"(break: "}
 ,{"lineaAcordes":"     G  Gº  C  G","lineaLetras":")"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Some folks inherit star spangled eyes,"}
 ,{"lineaAcordes":"","lineaLetras":"ooh, they send you down to war."}
 ,{"lineaAcordes":"","lineaLetras":"And when you ask them: \"How much should we give?\""}
 ,{"lineaAcordes":"","lineaLetras":"Oh, they only answer: \"More, more, more\""}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no military's son."}
 ,{"lineaAcordes":"","lineaLetras":"It ain't me, it ain't me, I'm no fortunate one."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Creedence Clearwater Revival","Titulo":"Have you ever seen the rain","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
-,{"lineaAcordes":"(Am F C G)  ","lineaLetras":" "}
+,{"lineaAcordes":"(Am F C G)  ","lineaLetras":""}
 ,{"lineaAcordes":"  C  ","lineaLetras":"    Someone told me long ago  "}
 ,{"lineaAcordes":"","lineaLetras":"    There's a calm before the storm  "}
 ,{"lineaAcordes":"       G                      C  ","lineaLetras":"    I know, it’s been coming for some time  "}
 ,{"lineaAcordes":"","lineaLetras":"    When its over so they say   "}
 ,{"lineaAcordes":"","lineaLetras":"    It'll rain a sunny day  "}
 ,{"lineaAcordes":"        G                      C      C7  ","lineaLetras":"    I know, shinin' down like water  "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"CHORUS -----------------------------------------"}
 ,{"lineaAcordes":"   F           G              C    C/B      Am   Am/G   ","lineaLetras":"    I want to know, have you ever seen the rain   "}
 ,{"lineaAcordes":"  F           G              C    C/B      Am   Am/G  ","lineaLetras":"    I want to know, have you ever seen the rain  "}
 ,{"lineaAcordes":"  F        G               C  ","lineaLetras":"    Comin' down on a sunny day"}
 ,{"lineaAcordes":"","lineaLetras":"-----------------------------------------------"}
-,{"lineaAcordes":"","lineaLetras":"   "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"C  ","lineaLetras":"    Yesterday and days before  "}
 ,{"lineaAcordes":"","lineaLetras":"    Sun is cold and rain is hot  "}
 ,{"lineaAcordes":"      G                       C  ","lineaLetras":"    I know, been that way for all my time       "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"    'Til forever on it goes  "}
 ,{"lineaAcordes":"","lineaLetras":"    Through the circle fast and slow  "}
 ,{"lineaAcordes":"      G                       C        C7  ","lineaLetras":"    I know, It can't stop, I wonder  "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"CHORUS -----------------------------------------"}
 ,{"lineaAcordes":"   F           G              C    C/B   Am       Am/G  ","lineaLetras":"    I want to know, have you ever seen the rain   "}
 ,{"lineaAcordes":"  F           G              C    C/B   Am      Am/G  ","lineaLetras":"    I want to know, have you ever seen the rain  "}
 ,{"lineaAcordes":"  F        G               C  ","lineaLetras":"    Comin' down on a sunny day"}
 ,{"lineaAcordes":"","lineaLetras":"-----------------------------------------------"}
 ,{"lineaAcordes":"","lineaLetras":"   2x  "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Creedence Clearwater Revival","Titulo":"Proud Mary","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
 ,{"lineaAcordes":"C  A  C  A","lineaLetras":""}
-,{"lineaAcordes":"C  A  G  F  D","lineaLetras":" "}
+,{"lineaAcordes":"C  A  G  F  D","lineaLetras":""}
 ,{"lineaAcordes":"D","lineaLetras":"Left a good job in the city, "}
 ,{"lineaAcordes":"","lineaLetras":"workin' for the man every night and day"}
 ,{"lineaAcordes":"","lineaLetras":"And I never lost one minute of sleepin', "}
 ,{"lineaAcordes":"","lineaLetras":"worryin' 'bout the way things might have been. "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"A","lineaLetras":" Big wheel a-keep on turnin'  "}
 ,{"lineaAcordes":"  Bm     ","lineaLetras":"Proud Mary keep on burnin',"}
 ,{"lineaAcordes":" D","lineaLetras":"Roll - in', rollin', rollin' on the river"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"D","lineaLetras":"Cleaned a lot of plates in Memphis,  "}
 ,{"lineaAcordes":"","lineaLetras":"pumped a lot of pain down in New Orleans,  "}
 ,{"lineaAcordes":"","lineaLetras":"But I never saw the good side of the city, "}
 ,{"lineaAcordes":"","lineaLetras":"till I hitched a ride on a river boat queen."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"A                                                   ","lineaLetras":" Big wheel a-keep on turnin,  "}
 ,{"lineaAcordes":"Bm","lineaLetras":"Proud  Mary keep on burnin',"}
 ,{"lineaAcordes":"     D","lineaLetras":"roll - in, rollin, rollin on the river."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"intro"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"solo"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"     D","lineaLetras":"roll - in, rollin, rollin on the river."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"intro"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"D","lineaLetras":"if you come down to the river, "}
 ,{"lineaAcordes":"","lineaLetras":"bet you're gonna find some people who live,"}
 ,{"lineaAcordes":"","lineaLetras":"you don't have to worry, cause you have no money, "}
 ,{"lineaAcordes":"","lineaLetras":"people on the river are happy to give."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"A                                                   ","lineaLetras":" Big wheel a-keep on turnin,  "}
 ,{"lineaAcordes":"Bm","lineaLetras":"Proud  Mary keep on burnin',"}
 ,{"lineaAcordes":"     D","lineaLetras":"roll - in, rollin, rollin on the river."}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Darkness","Titulo":"Friday Night","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro - Strums out E"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Verse 1"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"(A) B","lineaLetras":"Hey you!"}
 ,{"lineaAcordes":"         G#m        A","lineaLetras":"Do you remember me"}
 ,{"lineaAcordes":"                             F#m","lineaLetras":"I used to sit next to you at school"}
 ,{"lineaAcordes":"      B                                   G#m       A","lineaLetras":"We indulged in all the extra-curricular activities"}
 ,{"lineaAcordes":"                         F#m","lineaLetras":"We weren't particularly cool"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Chorus 1"}
 ,{"lineaAcordes":"      E","lineaLetras":"Oooh, Monday cycling"}
 ,{"lineaAcordes":"C#m","lineaLetras":"Tuesday gymnastics"}
@@ -657,16 +649,16 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"      E","lineaLetras":"I got Bridge Club on Wednesday"}
 ,{"lineaAcordes":"C#m","lineaLetras":"Archery on Thursday"}
 ,{"lineaAcordes":"A                   B","lineaLetras":"Dancing on a Friday night"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Verse 2"}
 ,{"lineaAcordes":"     B","lineaLetras":"Hey you!"}
 ,{"lineaAcordes":"               G#m          A","lineaLetras":"Could you ever fall for me....oooh"}
 ,{"lineaAcordes":"                   F#m","lineaLetras":"The way I fell for you"}
 ,{"lineaAcordes":"          B                               G#m     A","lineaLetras":"And do you dwell upon the thoughts that I occupy"}
 ,{"lineaAcordes":"                                  F#m","lineaLetras":"Or do you give yourself things to do"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"Chorus 2"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"     E","lineaLetras":"Oooh Monday rowing"}
 ,{"lineaAcordes":"C#m","lineaLetras":"Tuesday badminton"}
 ,{"lineaAcordes":"A                   B","lineaLetras":"Dancing on a Friday night"}
@@ -675,9 +667,9 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"A                   B","lineaLetras":"Dancing on a Friday night"}
 ,{"lineaAcordes":"","lineaLetras":"               E(Strums out to intro)"}
 ,{"lineaAcordes":"","lineaLetras":"With you, with you"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"(Played as chorus)"}
 ,{"lineaAcordes":"","lineaLetras":"Monday, Tuesday"}
 ,{"lineaAcordes":"","lineaLetras":"Wednesday, Thursday"}
@@ -685,7 +677,7 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"Let the music smother me"}
 ,{"lineaAcordes":"","lineaLetras":"Whole weekend recovery"}
 ,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"See the lady I adore"}
 ,{"lineaAcordes":"","lineaLetras":"Dancing on the dancing floor"}
 ,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
@@ -693,28 +685,28 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"To write bad poetry"}
 ,{"lineaAcordes":"","lineaLetras":"Dancing on a Friday night"}
 ,{"lineaAcordes":"","lineaLetras":"With you."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Dire Straits","Titulo":"Sultans of swing","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
-,{"lineaAcordes":"Dm / C  C / Dm / C  C  ","lineaLetras":" "}
+,{"lineaAcordes":"Dm / C  C / Dm / C  C  ","lineaLetras":""}
 ,{"lineaAcordes":"           Dm  ","lineaLetras":"you get a shiver in the dark  "}
 ,{"lineaAcordes":"         C           Bb         A          A – Asus – A ","lineaLetras":"it's raining in the park but meantime  "}
 ,{"lineaAcordes":"Dm                      C           Bb          A      A7","lineaLetras":"south of the river you stop and you hold everything  "}
 ,{"lineaAcordes":"F                                 C  ","lineaLetras":"  a band is blowing Dixie double four time  "}
 ,{"lineaAcordes":"        Bb                                 Dm         Bb - C  ","lineaLetras":"you feel alright when you hear that music ring  "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"           Dm              C        Bb          A       A – Asus – A","lineaLetras":" you step inside but you don't see too many faces  "}
 ,{"lineaAcordes":" Dm              C                        Bb      A          A7","lineaLetras":"coming in out of the rain to (you) hear the jazz go down  "}
 ,{"lineaAcordes":"F                                 C  ","lineaLetras":"  too much competition in other places  "}
 ,{"lineaAcordes":"Bb                                    Dm  ","lineaLetras":"but not too many horns can make that sound  "}
 ,{"lineaAcordes":"","lineaLetras":"(But not too many horns are blowing that sound)  "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Bb  C  ","lineaLetras":"        way on downsouth  "}
 ,{"lineaAcordes":"Bb  C  ","lineaLetras":"        way on downsouth  "}
 ,{"lineaAcordes":"Dm              ","lineaLetras":"London town"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Dm  Bb C       ","lineaLetras":""}
-,{"lineaAcordes":"Dm  Bb C  C7","lineaLetras":" "}
+,{"lineaAcordes":"Dm  Bb C  C7","lineaLetras":""}
 ,{"lineaAcordes":"                Dm          C       Bb          A          A – Asus – A","lineaLetras":"you check out Guitar George he knows all the chords  "}
 ,{"lineaAcordes":"Dm                    C              Bb               ","lineaLetras":"mind he's (his) strictly rhythm he doesn't want to   "}
 ,{"lineaAcordes":"       A            A7","lineaLetras":"make it cry or sing  "}
@@ -724,13 +716,13 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"Dm                      C        Bb          A  ","lineaLetras":"  he('s) got a daytime job he's doing al(l)right  "}
 ,{"lineaAcordes":"F                               C  ","lineaLetras":"  he can play honky tone just like anything  "}
 ,{"lineaAcordes":"","lineaLetras":"(He can play the honky tonk like anything)  "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Bb                      Dm      Bb C  ","lineaLetras":"  saving it up for friday night  "}
 ,{"lineaAcordes":"                  Bb C  ","lineaLetras":"with the sultans  "}
 ,{"lineaAcordes":"                     Dm       ","lineaLetras":"with the sultans of swing"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Dm Bb C  ","lineaLetras":""}
-,{"lineaAcordes":"Dm  Bb C  ","lineaLetras":" "}
+,{"lineaAcordes":"Dm  Bb C  ","lineaLetras":""}
 ,{"lineaAcordes":"Dm                     C           Bb            A         	A – Asus – A","lineaLetras":"and a crowd of young boys they're fooling around in the corner  "}
 ,{"lineaAcordes":"Dm                 C                Bb             ","lineaLetras":"drunk and dressed in their best brown baggies and   "}
 ,{"lineaAcordes":"     A      A7","lineaLetras":"their platform soles  "}
@@ -739,8 +731,8 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"                Bb C  ","lineaLetras":"and the sultans  "}
 ,{"lineaAcordes":"                        Dm     Dm C Bb C  ","lineaLetras":"and the sultans played creole  "}
 ,{"lineaAcordes":"","lineaLetras":"(Yeah the Sultans they played Creole)  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":" Dm C Bb C  ","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":" Dm C Bb C  ","lineaLetras":""}
 ,{"lineaAcordes":"Dm                    C         Bb         A  	","lineaLetras":"and then the man he steps right up to the microphone  "}
 ,{"lineaAcordes":"Dm          C                Bb         A    (A7)  ","lineaLetras":"and says at last just as the time bell rings  "}
 ,{"lineaAcordes":"F                           C  ","lineaLetras":"thank you goodnight now it's time to go home  "}
@@ -748,439 +740,505 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"                  Bb C  ","lineaLetras":"we are the sultans  "}
 ,{"lineaAcordes":"                      Dm        Dm C Bb C  ","lineaLetras":"we are the sultans of swing  "}
 ,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
-,{"Artista":"Dire Straits","Titulo":"Walk of life","Estrofas":[{"lineaAcordes":"        E          A       B        A       B     E ","lineaLetras":" "}
+,{"Artista":"Dire Straits","Titulo":"Walk of life","Estrofas":[{"lineaAcordes":"        E          A       B        A       B     E ","lineaLetras":""}
 ,{"lineaAcordes":"E","lineaLetras":"Here comes Johnny singing oldies, goldies  Be-Bop-A-Lula, Baby What I Say "}
 ,{"lineaAcordes":"","lineaLetras":"Here comes Johnny singing I Gotta Woman   "}
 ,{"lineaAcordes":"","lineaLetras":"Down in the tunnels, trying to make it pay "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"A                                        ","lineaLetras":"He got the action, He got the motion"}
 ,{"lineaAcordes":"E","lineaLetras":"Yeah the boy can play "}
 ,{"lineaAcordes":"A                      E ","lineaLetras":"Dedication, devotion   Turning all the night time into the day "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E                                     B ","lineaLetras":"He do the song about the sweet lovin' woman "}
-,{"lineaAcordes":"","lineaLetras":"          E                     A "}
-,{"lineaAcordes":"He do the song about the knife ","lineaLetras":""}
+,{"lineaAcordes":"          E                     A ","lineaLetras":"He do the song about the knife "}
 ,{"lineaAcordes":"          E7   B                  A         B                   E    A  B  A B ","lineaLetras":"He do the walk, he do the walk of life. Yeah, he do the walk of life "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E ","lineaLetras":"Here comes Johnny and he'll tell you the story "}
 ,{"lineaAcordes":"","lineaLetras":"Hand me down my walkin' shoe "}
 ,{"lineaAcordes":"","lineaLetras":"Here come Johnny with the power and the glory "}
 ,{"lineaAcordes":"","lineaLetras":"Backbeat the talkin' blues "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"A ","lineaLetras":"He got the action, He got the motion "}
 ,{"lineaAcordes":"E ","lineaLetras":"Yeah the boy can play "}
 ,{"lineaAcordes":"A ","lineaLetras":"Dedication, devotion "}
 ,{"lineaAcordes":"E ","lineaLetras":"Turning all the night time into the day "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E                                     B ","lineaLetras":"He do the song about the sweet lovin' woman "}
 ,{"lineaAcordes":"         E                     A ","lineaLetras":"He do the song about the knife "}
 ,{"lineaAcordes":"          E7  B                   A      B                       E  A B A B ","lineaLetras":"He do the walk, he do the walk of life.  Yeah, he do the walk of life "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E ","lineaLetras":"Here comes Johnny singing oldies, goldies  Be-Bop-A-Lula, Baby What I Say "}
 ,{"lineaAcordes":"","lineaLetras":"Here comes Johnny singing I Gotta Woman   "}
 ,{"lineaAcordes":"","lineaLetras":"Down in the tunnels, trying to make it pay "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"A ","lineaLetras":"He got the action, He got the motion "}
 ,{"lineaAcordes":"E ","lineaLetras":"Yeah the boy can play "}
 ,{"lineaAcordes":"A ","lineaLetras":"Dedication, devotion "}
 ,{"lineaAcordes":"E ","lineaLetras":"Turning all the night time into the day "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"E                              B ","lineaLetras":"And after all the violence and double talk "}
 ,{"lineaAcordes":"               E                               A ","lineaLetras":"There's just a song in all the trouble and the strife "}
 ,{"lineaAcordes":"           E7  B                    A        B                     E  A B A B ","lineaLetras":"You do the walk, you do the walk of life. Yeah, you do the walk of life "}
-,{"lineaAcordes":"","lineaLetras":" "}
 ]}
 ,{"Artista":"duncan dhu","Titulo":"Cien gaviotas","Estrofas":[{"lineaAcordes":"","lineaLetras":"INTRO:  "}
-,{"lineaAcordes":"G C G C G C G C D D11 D D11","lineaLetras":" "}
+,{"lineaAcordes":"G C G C G C G C D D11 D D11","lineaLetras":""}
 ,{"lineaAcordes":" A             Em           C ","lineaLetras":"Hoy el viento sopla más de lo normal      "}
 ,{"lineaAcordes":"    A          Em         C ","lineaLetras":"Las olas intentando salirse del mar"}
 ,{"lineaAcordes":"     A             Em           C ","lineaLetras":"El cielo es gris y tu no lo podrás cambiar"}
 ,{"lineaAcordes":"  A             Em             C","lineaLetras":" Mira hacia lo lejos, busca otro lugar"}
 ,{"lineaAcordes":"     C                  G  C        G  C ","lineaLetras":"y cien gaviotas dónde irán, dónde irán."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"  A                 Em              C ","lineaLetras":"Hoy no has visto a nadie con quien derrumbar"}
 ,{"lineaAcordes":"     A            Em          C ","lineaLetras":"Los muros que gobiernan en esta ciudad"}
 ,{"lineaAcordes":"  A                  Em              C","lineaLetras":" Hoy no has visto a nadie con quien disfrutar"}
 ,{"lineaAcordes":"    A             Em         C","lineaLetras":"Placeres que tan solo tu imaginarás."}
 ,{"lineaAcordes":"    C                  G  C        G  C  D D11 D D11","lineaLetras":" y tus miradas dónde irán, dónde irán."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"  G           Bm ","lineaLetras":"Hoy podrás beber y lamentar"}
 ,{"lineaAcordes":"     Em ","lineaLetras":"Que ya no volverán"}
 ,{"lineaAcordes":"    C ","lineaLetras":"sus alas a volar"}
 ,{"lineaAcordes":"                       G  C        G  C        G  C","lineaLetras":" cien gaviotas dónde irán, dónde irán, dónde irán...."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"  A          Em            C","lineaLetras":" Hoy el día ya no es como los demás"}
 ,{"lineaAcordes":"    A        Em                 C ","lineaLetras":"el ron y la cerveza harán que acabes mal"}
 ,{"lineaAcordes":"  A            Em        C","lineaLetras":" nena, ven conmigo, déjate llevar"}
 ,{"lineaAcordes":"  A            Em           C","lineaLetras":" hoy te enseñaré donde termina el mar"}
 ,{"lineaAcordes":"                         G  C        G  C        G  C","lineaLetras":" y cien gaviotas dónde irán, dónde irán, dónde irán...."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"  G           Bm ","lineaLetras":"Hoy podrás beber y lamentar"}
 ,{"lineaAcordes":"     Em ","lineaLetras":"Que ya no volverán"}
 ,{"lineaAcordes":"    C ","lineaLetras":"sus alas a volar"}
 ,{"lineaAcordes":"                       G  C        G  C        G  C","lineaLetras":" cien gaviotas dónde irán, dónde irán, dónde irán...."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Eagles","Titulo":"Hotel california","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
-,{"lineaAcordes":"Em   B7/D#   Dsus2   A9/C#   C   G   Am7   B7/D (2X) ","lineaLetras":"  "}
+,{"lineaAcordes":"Em   B7/D#   Dsus2   A9/C#   C   G   Am7   B7/D (2X) ","lineaLetras":""}
 ,{"lineaAcordes":"Em                        B7/D ","lineaLetras":"On a dark desert highway, cool wind in my hair "}
 ,{"lineaAcordes":"Dsus2                      A9/C# ","lineaLetras":"Warm smell of colitas, rising up through the air "}
 ,{"lineaAcordes":"C                         G ","lineaLetras":"Up ahead in the distance, I saw a shimmering light "}
 ,{"lineaAcordes":"Am7 ","lineaLetras":"My head grew heavy and my sight grew dim "}
 ,{"lineaAcordes":"B7 ","lineaLetras":"I had to stop for the night "}
-,{"lineaAcordes":"","lineaLetras":"  "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em                               B7/D ","lineaLetras":"There she stood in the doorway,  I heard the mission bell "}
 ,{"lineaAcordes":"Dsus2                                          A9/C ","lineaLetras":"And I was thinking to myself this could be heaven or this could be hell "}
 ,{"lineaAcordes":"C                        G ","lineaLetras":"Then she lit up a candle, and she showed me the way "}
 ,{"lineaAcordes":"Am7                                   B7 ","lineaLetras":"There were voices down the corridor, I thought I heard them say: "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"C                          G ","lineaLetras":"Welcome to the Hotel California "}
 ,{"lineaAcordes":"       B7                        Em      ","lineaLetras":"Such a lovely place... such a lovely face "}
 ,{"lineaAcordes":"C                                  G ","lineaLetras":"Plenty of room at the Hotel California  "}
 ,{"lineaAcordes":"    Am                    B7                       ","lineaLetras":"Any time of year  you can find it here"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":"  "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em                           B7/D# ","lineaLetras":"Her mind is Tiffany twisted, she got the Mercedes bends, uh! "}
 ,{"lineaAcordes":"Dsus2                                      A9/C ","lineaLetras":"She's got a lot of pretty, pretty boys that she calls friends "}
 ,{"lineaAcordes":"C                                G ","lineaLetras":"How they dance in the courtyard, sweet summer sweat "}
 ,{"lineaAcordes":"Am7                      B7 ","lineaLetras":"Some dance to remember, some dance to forget "}
-,{"lineaAcordes":"","lineaLetras":"  "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em                          B7/D ","lineaLetras":"So I called up the captain, \"Please bring me my wine,\" he said "}
 ,{"lineaAcordes":"Dsus2                                      A9/C# ","lineaLetras":"\"We haven't had that spirit here since nineteen sixty nine\" "}
 ,{"lineaAcordes":"C                                       G ","lineaLetras":"And still those voices are calling from far away "}
 ,{"lineaAcordes":"Am7                                      B7 ","lineaLetras":"Wake you up in the middle of the night, just to hear them say "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":"  "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"C                           G ","lineaLetras":"Welcome to the Hotel California "}
 ,{"lineaAcordes":"       B7                       Em     ","lineaLetras":"Such a lovely place such a lovely face "}
 ,{"lineaAcordes":"C                               G ","lineaLetras":"Livin it up at the Hotel California "}
 ,{"lineaAcordes":"       Am                  B7                                 ","lineaLetras":"What a nice surprise bring your alibis"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em                      B7/D# ","lineaLetras":"Mirrors on the ceiling, the pink champagne on ice, and she said, "}
 ,{"lineaAcordes":"Dsus2                                A9/C# ","lineaLetras":"\"We are all just prisoners here, of our own device\" "}
 ,{"lineaAcordes":"C                             G ","lineaLetras":"And in the master's chambers, they gathered for the feast "}
 ,{"lineaAcordes":"Am7                                              B7 ","lineaLetras":"They stab it with their steely knives, but they just can't kill the beast "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"Em                     B7/D# ","lineaLetras":"Last thing I remember, I was running for the door "}
 ,{"lineaAcordes":"Dsus2                                     A9/C# ","lineaLetras":"I had to find the passage back to the place I was before "}
 ,{"lineaAcordes":"C                                  G ","lineaLetras":"\"Relax\" said the nightman, \"We are programmed to receive\" "}
 ,{"lineaAcordes":"Am7                                   B7 ","lineaLetras":"\"You can check out anytime you like, but you can never leave\" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Eddy Grant","Titulo":"Give me hope Joanna","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
-,{"lineaAcordes":"A D A E | A D A. E. A  ","lineaLetras":" "}
+,{"lineaAcordes":"A D A E | A D A. E. A  ","lineaLetras":""}
 ,{"lineaAcordes":"        A                D","lineaLetras":"Well Jo'anna she runs a country"}
 ,{"lineaAcordes":"            A                    E","lineaLetras":"She runs in Durban and the Transvaal"}
 ,{"lineaAcordes":"            A                  D","lineaLetras":"She makes a few of her people happy, oh"}
 ,{"lineaAcordes":"          A.             E.      A","lineaLetras":"She don't care about the rest at all"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"             A                 D","lineaLetras":"She's got a system they call apartheid"}
 ,{"lineaAcordes":"             A                  E","lineaLetras":"It keeps a brother in a subjection"}
 ,{"lineaAcordes":"            A                   D","lineaLetras":"But maybe pressure will make Jo'anna see"}
 ,{"lineaAcordes":"          A.           E.      A","lineaLetras":"How everybody could a live as one"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"[chorus:]"}
 ,{"lineaAcordes":"      A               D","lineaLetras":"Gimme hope, Jo'anna; Hope, Jo'anna"}
 ,{"lineaAcordes":"      A                         E","lineaLetras":"Gimme hope, Jo'anna; 'Fore the morning comes"}
 ,{"lineaAcordes":"      A               D","lineaLetras":"Gimme hope, Jo'anna; Hope, Jo'anna"}
 ,{"lineaAcordes":"A.               E.      A","lineaLetras":"Hope before the morning come"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"            A                    D  ","lineaLetras":"I hear she makes all the golden money"}
 ,{"lineaAcordes":"             A                    E","lineaLetras":"To buy new weapons, any shape of guns"}
 ,{"lineaAcordes":"             A                   D  ","lineaLetras":"While every mother in a black Soweto fears"}
 ,{"lineaAcordes":"    A.           E.     A","lineaLetras":"The killing of another son"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"            A                         D","lineaLetras":"Sneakin' across all the neighbours' borders"}
 ,{"lineaAcordes":"          A                  E","lineaLetras":"Now and again having little fun"}
 ,{"lineaAcordes":"             A                   D","lineaLetras":"She doesn't care if the fun and games she play"}
 ,{"lineaAcordes":"        A.      E.   A","lineaLetras":"Is dang'rous to ev'ryone"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"[chorus]"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"[interlude: repeat intro]"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"              A                  D","lineaLetras":"She's got supporters in high up places"}
 ,{"lineaAcordes":"                A                 E","lineaLetras":"Who turn their heads to the city sun"}
 ,{"lineaAcordes":"         A                   D","lineaLetras":"Jo'anna give them the fancy money"}
 ,{"lineaAcordes":"      A.       E.        A","lineaLetras":"Oh to tempt anyone who'd come"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"         A                   D","lineaLetras":"She even knows how to swing opinion"}
 ,{"lineaAcordes":"         A                    E","lineaLetras":"In every magazine and the journals"}
 ,{"lineaAcordes":"          A                     D","lineaLetras":"For every bad move that this Jo'anna make -"}
 ,{"lineaAcordes":"           A.        E.  A","lineaLetras":"They got a good explana-tion"}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"[chorus]"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"           A                      D","lineaLetras":"Even the preacher who works for Jesus"}
 ,{"lineaAcordes":"        A                       E","lineaLetras":"The Archbishop who's a peaceful man"}
 ,{"lineaAcordes":"         A                    D","lineaLetras":"Together say that the freedom fighters"}
 ,{"lineaAcordes":"     A.           E.   A","lineaLetras":"Will overcome the very strong"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"        A                       D","lineaLetras":"I wanna know if you're blind Jo'anna"}
 ,{"lineaAcordes":"       A                       E","lineaLetras":"If you wanna hear the sound of drums"}
 ,{"lineaAcordes":"          A                    D","lineaLetras":"Can't you see that the tide is turning -"}
 ,{"lineaAcordes":"                 A.            E.      A","lineaLetras":"Oh don't make me wait till the morning come"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"[chorus x2]"}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ,{"Artista":"Fito y fitipaldis","Titulo":"Quiero Beber Hasta Perder el Control","Estrofas":[{"lineaAcordes":"C                              G","lineaLetras":"Nunca he sentido igual una derrota"}
 ,{"lineaAcordes":"                               C","lineaLetras":"que cuando ella me dijo se acabó."}
 ,{"lineaAcordes":"                          G","lineaLetras":"Nunca creí tener mi vida rota"}
 ,{"lineaAcordes":"                                  C","lineaLetras":"ahora estoy solo y arrastro mi dolor."}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"F                                 C","lineaLetras":"Y mientras en la calle está lloviendo"}
 ,{"lineaAcordes":"Am                           G   G-D-F","lineaLetras":"una tormenta hay en mi corazón"}
 ,{"lineaAcordes":"               G            C   C-G-Am","lineaLetras":"dame otra copa aún estoy sereno"}
 ,{"lineaAcordes":"                 G                C","lineaLetras":"quiero beber hasta perder el control."}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"C                             G","lineaLetras":"Cuántas noches soñé que regresabas"}
 ,{"lineaAcordes":"                                  C","lineaLetras":"y en mis brazos llorabas por tu error"}
 ,{"lineaAcordes":"                                G","lineaLetras":"luego un ruido del bar me despertaba"}
 ,{"lineaAcordes":"                              C","lineaLetras":"y el que lloraba entonces era yo."}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"F                              C","lineaLetras":"Y mientras ella está con otro tipo"}
 ,{"lineaAcordes":"Am                               G   G-D-F","lineaLetras":"mis lágrimas se mezclan con alcohol"}
 ,{"lineaAcordes":"                 G           C   C-G-Am","lineaLetras":"ella se fue porqué no me lo dijo"}
 ,{"lineaAcordes":"                 G          C","lineaLetras":"y siento que mi vida se acabó."}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"F                                 C","lineaLetras":"Y mientras en la calle está lloviendo"}
 ,{"lineaAcordes":"Am                           G   G-D-F","lineaLetras":"una tormenta hay en mi corazón"}
 ,{"lineaAcordes":"              G            C   C-G-Am","lineaLetras":"dame otra copa aún estoy sereno"}
 ,{"lineaAcordes":"                 G                C","lineaLetras":"quiero beber hasta perder el control,"}
 ,{"lineaAcordes":"Am              G                C","lineaLetras":"quiero beber hasta perder el control."}
 ,{"lineaAcordes":"Am              G","lineaLetras":"quiero beber hasta perder...hasta perder..."}
-,{"lineaAcordes":"Am              G                C","lineaLetras":"hasta perder..."}
-,{"lineaAcordes":"","lineaLetras":"quiero beber hasta perder el control."}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":"hasta perder..."}
+,{"lineaAcordes":"Am              G                C","lineaLetras":"quiero beber hasta perder el control."}
 ]}
-,{"Artista":"Fito y fitipaldis","Titulo":"Soldadito marinero","Estrofas":[{"lineaAcordes":"A                    G                       D","lineaLetras":"Él camina despacito que las prisas no son buenas"}
-,{"lineaAcordes":"Bm                   D                   A","lineaLetras":"En su brazo dobladita con cuidado la chaqueta"}
-,{"lineaAcordes":"G                                             D","lineaLetras":"Luego pasa por las calles donde los chavales juegan"}
-,{"lineaAcordes":"Bm                     A                     D","lineaLetras":"Él también quiso ser niño pero le pilló la guerra"}
+,{"Artista":"Fito y fitipaldis","Titulo":"Soldadito marinero","Estrofas":[{"lineaAcordes":"","lineaLetras":"A                    G                       D"}
+,{"lineaAcordes":"","lineaLetras":"Él camina despacito que las prisas no son buenas"}
+,{"lineaAcordes":"","lineaLetras":"Bm                   D                   A"}
+,{"lineaAcordes":"","lineaLetras":"En su brazo dobladita con cuidado la chaqueta"}
+,{"lineaAcordes":"","lineaLetras":"G                                             D"}
+,{"lineaAcordes":"","lineaLetras":"Luego pasa por las calles donde los chavales juegan"}
+,{"lineaAcordes":"","lineaLetras":"Bm                         A                D"}
+,{"lineaAcordes":"","lineaLetras":"Él también quiso ser niño pero le pilló la guerra"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"","lineaLetras":"                   ESTRIBILLO"}
-,{"lineaAcordes":"G                                  D","lineaLetras":"Soldadito marinero conociste a una sirena"}
-,{"lineaAcordes":"Bm                                              A","lineaLetras":"De esas que dicen “te quiero” si ven la cartera llena"}
-,{"lineaAcordes":"G                                      D","lineaLetras":"Escogiste a la más guapa y a la menos buena"}
-,{"lineaAcordes":"Bm                 A                        D","lineaLetras":"Sin saber como ha venido te ha cogido la tormenta"}
-,{"lineaAcordes":"A                   G                       D","lineaLetras":"Él quería cruzar los mares y olvidar a su sirena"}
-,{"lineaAcordes":"Bm                   D                       A","lineaLetras":"La verdad no fue difícil cuando conoció a Mariola"}
-,{"lineaAcordes":"G                                                 D","lineaLetras":"Que tenía los ojos verdes y un negocio entre las piernas"}
-,{"lineaAcordes":"Bm                    A                       D","lineaLetras":"Hay que ver que puntería no te arrimas a una buena"}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":"G                                  D"}
+,{"lineaAcordes":"","lineaLetras":"Soldadito marinero conociste a una sirena"}
+,{"lineaAcordes":"","lineaLetras":"Bm                                              A"}
+,{"lineaAcordes":"","lineaLetras":"De esas que dicen “te quiero” si ven la cartera llena"}
+,{"lineaAcordes":"","lineaLetras":"G                                      D"}
+,{"lineaAcordes":"","lineaLetras":"Escogiste a la más guapa y a la menos buena"}
+,{"lineaAcordes":"","lineaLetras":"Bm                 A                        D"}
+,{"lineaAcordes":"","lineaLetras":"Sin saber como ha venido te ha cogido la tormenta"}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":"A                            G               D"}
+,{"lineaAcordes":"","lineaLetras":"Él quería cruzar los mares y olvidar a su sirena"}
+,{"lineaAcordes":"","lineaLetras":"Bm                         D                  A"}
+,{"lineaAcordes":"","lineaLetras":"La verdad no fue difícil cuando conoció a Mariela"}
+,{"lineaAcordes":"","lineaLetras":"G                                                 D"}
+,{"lineaAcordes":"","lineaLetras":"Que tenía los ojos verdes y un negocio entre las piernas"}
+,{"lineaAcordes":"","lineaLetras":"Bm                        A                    D"}
+,{"lineaAcordes":"","lineaLetras":"Hay que ver que puntería no te arrimas a una buena"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"","lineaLetras":"                  ESTRIBILLO"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"","lineaLetras":"Soldadito marinero conociste a una sirena"}
 ,{"lineaAcordes":"","lineaLetras":"De esas que dicen “te quiero” si ven la cartera llena"}
 ,{"lineaAcordes":"","lineaLetras":"Escogiste a la más guapa y a la menos buena"}
 ,{"lineaAcordes":"","lineaLetras":"Sin saber como ha venido te ha cogido la tormenta"}
-,{"lineaAcordes":"G                      D","lineaLetras":"Después de un invierno malo"}
-,{"lineaAcordes":"              A","lineaLetras":"Una mala primavera"}
-,{"lineaAcordes":"                     Bm","lineaLetras":"No sé por que estás buscando"}
-,{"lineaAcordes":"                    G","lineaLetras":"Una lágrima en la arena(x 3)"}
-,{"lineaAcordes":"                       D","lineaLetras":"Después de un invierno malo"}
-,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":"G                      D"}
+,{"lineaAcordes":"","lineaLetras":"Después de un invierno malo"}
+,{"lineaAcordes":"","lineaLetras":"              A"}
+,{"lineaAcordes":"","lineaLetras":"Una mala primavera"}
+,{"lineaAcordes":"","lineaLetras":"                     Bm"}
+,{"lineaAcordes":"","lineaLetras":"No sé por que estás buscando"}
+,{"lineaAcordes":"","lineaLetras":"                    G"}
+,{"lineaAcordes":"","lineaLetras":"Una lágrima en la arena(x 3)"}
+,{"lineaAcordes":"","lineaLetras":"                       D"}
+,{"lineaAcordes":"","lineaLetras":"Después de un invierno malo"}
 ]}
-,{"Artista":"Guns N' Roses","Titulo":"Paradise City","Estrofas":[{"lineaAcordes":"G C F C G","lineaLetras":"Intro: "}
+,{"Artista":"Guns N' Roses","Titulo":"Paradise City","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
+,{"lineaAcordes":"G C F C G","lineaLetras":" "}
 ,{"lineaAcordes":"     G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F             C             G","lineaLetras":"   Oh won't you please, take me home"}
 ,{"lineaAcordes":"      G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F             C             G   (G C F C G) 4x.. Instrumental..!","lineaLetras":"   OH won't you please, take me home"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"   (G)","lineaLetras":"   Just a'urchin livin' under the street"}
 ,{"lineaAcordes":"","lineaLetras":"   I'm a hard case that's tough to beat"}
 ,{"lineaAcordes":"","lineaLetras":"   I'm your charity case"}
 ,{"lineaAcordes":"","lineaLetras":"   So buy me somethin' to eat"}
 ,{"lineaAcordes":"","lineaLetras":"   I'll pay you at another time"}
 ,{"lineaAcordes":"","lineaLetras":"   Take it to the end of the line"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"   (G)","lineaLetras":"   Ragz to richez or so they say"}
 ,{"lineaAcordes":"","lineaLetras":"   Ya gotta keep pushin' for the fortune and fame"}
 ,{"lineaAcordes":"","lineaLetras":"   It's all gamble"}
 ,{"lineaAcordes":"","lineaLetras":"   When it's just a game"}
 ,{"lineaAcordes":"","lineaLetras":"   Ya treat it like a capital crime"}
 ,{"lineaAcordes":"","lineaLetras":"   Everybody's doing their time"}
-,{"lineaAcordes":"     G","lineaLetras":"   Take me down to the paradise city"}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":"     G"}
+,{"lineaAcordes":"   Take me down to the paradise city","lineaLetras":""}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F             C             G","lineaLetras":"   Oh won't you please, take me home"}
 ,{"lineaAcordes":"      G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F    C   G        (G)","lineaLetras":"   Take me home, yeah"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"   (G)","lineaLetras":"   Strapped in the chair of the city's gas chamber"}
 ,{"lineaAcordes":"","lineaLetras":"   Why I'm here I can't quite remember"}
 ,{"lineaAcordes":"","lineaLetras":"   The surgeon general says it's hazardous to breathe"}
 ,{"lineaAcordes":"","lineaLetras":"   I'd have another cigarette but I can't see"}
 ,{"lineaAcordes":"","lineaLetras":"   Tell me who ya gonna believe"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"     G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F             C             G","lineaLetras":"   OH won't you please, take me home"}
 ,{"lineaAcordes":"      G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F    C   G        G A G C","lineaLetras":"   Take me home, yeah"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"       D    C","lineaLetras":"   So far away"}
 ,{"lineaAcordes":"       D    C","lineaLetras":"   So far away"}
 ,{"lineaAcordes":"       D    C","lineaLetras":"   So far away"}
 ,{"lineaAcordes":"       D    C  Bb","lineaLetras":"   So far away"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"   (G)","lineaLetras":"   Captain America's been torn apart"}
-,{"lineaAcordes":"","lineaLetras":"   Now he's a court jester with a borken heart"}
+,{"lineaAcordes":"","lineaLetras":"   Now he's a court jester with a broken heart"}
 ,{"lineaAcordes":"","lineaLetras":"   He said:"}
 ,{"lineaAcordes":"","lineaLetras":"   \"Turn me around and take me back to start\""}
 ,{"lineaAcordes":"","lineaLetras":"   I must be losin' my mind:\"Are you blind?\""}
 ,{"lineaAcordes":"","lineaLetras":"   I've seen it all a million times"}
+,{"lineaAcordes":"","lineaLetras":" "}
 ,{"lineaAcordes":"     G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
 ,{"lineaAcordes":"  F9             C             G","lineaLetras":"   OH won't you please, take me home"}
 ,{"lineaAcordes":"     G","lineaLetras":"   Take me down to the paradise city"}
 ,{"lineaAcordes":"               C","lineaLetras":"   Where the grass is green and the girls are pretty"}
-,{"lineaAcordes":"  F9    C   G   (G C F C G)até o fim","lineaLetras":"   Take me home "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"  F9    C   G   (G C F C G)","lineaLetras":"   Take me home "}
 ]}
-,{"Artista":"Guns N' Roses","Titulo":"Welcome to the jungle","Estrofas":[{"lineaAcordes":"(E) B A G E B A E D A B (A) ","lineaLetras":"Intro: "}
-,{"lineaAcordes":"   A ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   Welcome to the jungle "}
+,{"Artista":"Guns N' Roses","Titulo":"Welcome to the jungle","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
+,{"lineaAcordes":"(E) B A G E B A E D A B (A) ","lineaLetras":"  "}
+,{"lineaAcordes":"   A ","lineaLetras":"   Welcome to the jungle "}
 ,{"lineaAcordes":"","lineaLetras":"   We got fun'n'games "}
 ,{"lineaAcordes":"","lineaLetras":"   We got everything you want "}
 ,{"lineaAcordes":"","lineaLetras":"   Honey we know the names "}
-,{"lineaAcordes":"              E ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   We are the people that can find "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"              E ","lineaLetras":"   We are the people that can find "}
 ,{"lineaAcordes":"","lineaLetras":"   Whatever you may need "}
 ,{"lineaAcordes":"","lineaLetras":"   If you got the money honey "}
 ,{"lineaAcordes":"","lineaLetras":"   We got your disease "}
-,{"lineaAcordes":"           C ","lineaLetras":""}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"                             E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"","lineaLetras":"   Watch it bring you to your knees, knees   "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"                             E ","lineaLetras":"   Watch it bring you to your knees, knees   "}
 ,{"lineaAcordes":"","lineaLetras":"   I wanna watch you bleed "}
-,{"lineaAcordes":"    A ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"    A ","lineaLetras":"   Welcome to the jungle "}
 ,{"lineaAcordes":"","lineaLetras":"   We take it day by day "}
 ,{"lineaAcordes":"","lineaLetras":"   If you want it you're gonna bleed "}
 ,{"lineaAcordes":"","lineaLetras":"   But it's the price you pay "}
-,{"lineaAcordes":"                 E ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   And you're a very sexy girl "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"                 E ","lineaLetras":"   And you're a very sexy girl "}
 ,{"lineaAcordes":"","lineaLetras":"   That's very hard to please "}
 ,{"lineaAcordes":"","lineaLetras":"   You can taste the bright lights "}
 ,{"lineaAcordes":"","lineaLetras":"   But you won't get them for free "}
-,{"lineaAcordes":"           C ","lineaLetras":""}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"           E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"     B                          E ","lineaLetras":"   Fell my, my, my serpentine "}
-,{"lineaAcordes":"","lineaLetras":"   I, I wanna hear your scream "}
-,{"lineaAcordes":"    A ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"           E ","lineaLetras":"   Fell my, my, my serpentine "}
+,{"lineaAcordes":"     B                          E ","lineaLetras":"   I, I wanna hear your scream "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"    A ","lineaLetras":"   Welcome to the jungle "}
 ,{"lineaAcordes":"","lineaLetras":"   It gets worse here everyday "}
 ,{"lineaAcordes":"","lineaLetras":"   Ya learn ta live like an animal "}
 ,{"lineaAcordes":"","lineaLetras":"   In the jungle where we play "}
-,{"lineaAcordes":"                 E ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   If you got a hunger for what you see "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"                 E ","lineaLetras":"   If you got a hunger for what you see "}
 ,{"lineaAcordes":"","lineaLetras":"   You'll take it eventually "}
 ,{"lineaAcordes":"","lineaLetras":"   You can have anything you want "}
 ,{"lineaAcordes":"","lineaLetras":"   But you better not take it from me "}
-,{"lineaAcordes":"           C ","lineaLetras":""}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"                             E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"                           D G D G ","lineaLetras":"   Watch it bring you to your knees, kness "}
-,{"lineaAcordes":"","lineaLetras":"   I wanna watch you bleed "}
-,{"lineaAcordes":"  D                    G ","lineaLetras":""}
-,{"lineaAcordes":"  D                      G ","lineaLetras":"   And when you're high you never "}
-,{"lineaAcordes":"   F   G    F   G    F   A     E  E7/9 E E7/9 ","lineaLetras":"   Ever want to come down "}
-,{"lineaAcordes":"  C#m B C#m B C#m  ","lineaLetras":"   So down, so down, so down, yeah       "}
-,{"lineaAcordes":"  B E B E B A F# B E   ","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"                             E ","lineaLetras":"   Watch it bring you to your knees, kness "}
+,{"lineaAcordes":"                           D G D G ","lineaLetras":"   I wanna watch you bleed "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"  D                    G ","lineaLetras":"   And when you're high you never "}
+,{"lineaAcordes":"  D                      G ","lineaLetras":"   Ever want to come down "}
+,{"lineaAcordes":"   F   G    F   G    F   A     E  E7/9 E E7/9 ","lineaLetras":"   So down, so down, so down, yeah       "}
+,{"lineaAcordes":"  C#m B C#m B C#m  ","lineaLetras":" "}
+,{"lineaAcordes":"  B E B E B A F# B E   ","lineaLetras":" "}
 ,{"lineaAcordes":"  E ","lineaLetras":"   You know where you are "}
 ,{"lineaAcordes":"","lineaLetras":"   You're in the jungle, baby "}
-,{"lineaAcordes":"                   F# F F# G A G# A A# ","lineaLetras":""}
-,{"lineaAcordes":"","lineaLetras":"   You're gonna die "}
-,{"lineaAcordes":"           C ","lineaLetras":""}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"                             E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"           C ","lineaLetras":"   Watch it bring you to your knees, knees "}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"           E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"           C ","lineaLetras":"   Fell my, my, my serpentine "}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"                             E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"           C ","lineaLetras":"   Watch it bring you to your knees, knees "}
-,{"lineaAcordes":"                   D ","lineaLetras":"   In the jungle "}
-,{"lineaAcordes":"                        E ","lineaLetras":"   Welcome to the jungle "}
-,{"lineaAcordes":"       D    Bb    A  G E A  G E  E7/9 ","lineaLetras":"   Watch it bring to you "}
-,{"lineaAcordes":"","lineaLetras":"   It's gonna bring you down, ha!"}
-,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"                   F# F F# G A G# A A# ","lineaLetras":"   You're gonna die "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"                             E ","lineaLetras":"   Watch it bring you to your knees, knees "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"           E ","lineaLetras":"   Fell my, my, my serpentine "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"                             E ","lineaLetras":"   Watch it bring you to your knees, knees "}
+,{"lineaAcordes":"           C ","lineaLetras":"   In the jungle "}
+,{"lineaAcordes":"                   D ","lineaLetras":"   Welcome to the jungle "}
+,{"lineaAcordes":"                        E ","lineaLetras":"   Watch it bring to you "}
+,{"lineaAcordes":"","lineaLetras":" "}
 ]}
 ,{"Artista":"Iron Maiden","Titulo":"Fear of the dark","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro:  "}
-,{"lineaAcordes":"(E  C  D  C D E)  ","lineaLetras":""}
-,{"lineaAcordes":"Em     C              D                           C      D     Em ","lineaLetras":"I am a man who walks alone, and when I'm walking a dark road  "}
-,{"lineaAcordes":"        C                        D     C  D  ","lineaLetras":"at night or strolling through the park  "}
-,{"lineaAcordes":"Em      C                 D                         G       A      Em ","lineaLetras":"When the lights begin to change, I sometimes feel a little strange  "}
-,{"lineaAcordes":"    C                      D  ","lineaLetras":"a little anxious when it's dark  "}
-,{"lineaAcordes":"            C   D               Em   D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"        C                     G                A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
-,{"lineaAcordes":"            C   D                 Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"         C             G               A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
-,{"lineaAcordes":"","lineaLetras":""}
-,{"lineaAcordes":"(Em  C  D  Em)  ","lineaLetras":""}
+,{"lineaAcordes":"(E  C  D  C D E)  ","lineaLetras":"   "}
+,{"lineaAcordes":"Em         C              D                  C      D      Em ","lineaLetras":"   I am a man who walks alone, and when I'm walking a dark road  "}
+,{"lineaAcordes":"               C                   D     C  D  ","lineaLetras":"at night or strolling through the park  "}
+,{"lineaAcordes":"Em           C                D                  G       A      Em ","lineaLetras":"   When the lights begin to change, I sometimes feel a little strange  "}
+,{"lineaAcordes":"         C                  D  ","lineaLetras":"a little anxious when it's dark  "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"             C   D               Em   D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"          C                  G                  A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
+,{"lineaAcordes":"","lineaLetras":"             C   D                Em    D "}
+,{"lineaAcordes":"Fear of the dark,    Fear of the dark,  ","lineaLetras":""}
+,{"lineaAcordes":"           C          G        A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
+,{"lineaAcordes":"","lineaLetras":"   "}
+,{"lineaAcordes":"(Em  C  D  Em)  ","lineaLetras":" "}
 ,{"lineaAcordes":"Em                                   C ","lineaLetras":"Have you run your fingers down the wall  "}
 ,{"lineaAcordes":"                                  D ","lineaLetras":"And have you felt your neck skin crawl  "}
 ,{"lineaAcordes":"                               Em ","lineaLetras":"When you're searching for the light  "}
-,{"lineaAcordes":"                                      C ","lineaLetras":"Sometimes when you're scared to take a look  "}
+,{"lineaAcordes":"                                        C ","lineaLetras":"Sometimes when you're scared to take a look  "}
 ,{"lineaAcordes":"                     D  ","lineaLetras":"At the corner of the room  "}
 ,{"lineaAcordes":"                                       Em ","lineaLetras":"You've sensed that something's watching you  "}
-,{"lineaAcordes":"             C   D              Em    D  ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"       C                       G                A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
-,{"lineaAcordes":"            C   D               Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"          C             G               A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
-,{"lineaAcordes":"","lineaLetras":""}
-,{"lineaAcordes":"         C                 D ","lineaLetras":"Have you ever been alone at night  "}
-,{"lineaAcordes":"        Em           D          Em  ","lineaLetras":"Thought you heard footsteps behind  "}
-,{"lineaAcordes":"    C                          D ","lineaLetras":"And turned around and no one's there?  "}
-,{"lineaAcordes":"Em        C                D ","lineaLetras":"And as you quicken up your pace  "}
-,{"lineaAcordes":"        G         A       Em  ","lineaLetras":"You find it hard to look again  "}
-,{"lineaAcordes":"        C                             D ","lineaLetras":"Because you're sure there's someone there  "}
-,{"lineaAcordes":"             C   D               Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"         C                   G                A        Em  ","lineaLetras":"I have a constant fear that something's always near  "}
-,{"lineaAcordes":"          C   D                   Em    D  ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"        C             G               A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
-,{"lineaAcordes":" (Em   C  D  C D Em)  ","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"             C   D               Em   D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"          C                  G                  A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
+,{"lineaAcordes":"             C   D                Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"           C          G        A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
+,{"lineaAcordes":"","lineaLetras":"   "}
+,{"lineaAcordes":"               C             D ","lineaLetras":"Have you ever been alone at night  "}
+,{"lineaAcordes":"             Em         D      Em  ","lineaLetras":"Thought you heard footsteps behind  "}
+,{"lineaAcordes":"             C                  D ","lineaLetras":"And turned around and no one's there?  "}
+,{"lineaAcordes":"Em              C              D ","lineaLetras":"   And as you quicken up your pace  "}
+,{"lineaAcordes":"             G       A   Em  ","lineaLetras":"You find it hard to look again  "}
+,{"lineaAcordes":"                C                     D ","lineaLetras":"Because you're sure there's someone there  "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"             C   D               Em   D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"          C                  G                  A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
+,{"lineaAcordes":"             C   D                Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"           C          G        A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
+,{"lineaAcordes":"","lineaLetras":"   "}
+,{"lineaAcordes":" (Em   C  D  C D Em)  ","lineaLetras":" "}
 ,{"lineaAcordes":"Em            B                   Em  ","lineaLetras":"Fear of the dark,    Fear of the dark...  "}
-,{"lineaAcordes":" (Em  C  D  C D Em)  ","lineaLetras":""}
-,{"lineaAcordes":"Em          C                     D ","lineaLetras":"Watching horror films the night before  "}
-,{"lineaAcordes":"   G           A         Em  ","lineaLetras":"Debating witches and folklore  "}
-,{"lineaAcordes":"      C                      D  ","lineaLetras":"The unknown troubles on your mind  "}
-,{"lineaAcordes":"Em          C                   D ","lineaLetras":"Maybe your mind is playing tricks  "}
-,{"lineaAcordes":"         G        A         Em  ","lineaLetras":"You sense and suddenly eyes fix  "}
-,{"lineaAcordes":"      C                      D  ","lineaLetras":"On dancing shadows from behind  "}
-,{"lineaAcordes":"             C   D                   Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":" C                       G                A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
-,{"lineaAcordes":"        C   D                   Em    D  ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"       C             G               A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
-,{"lineaAcordes":"           C   D                   Em   D  ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"    C                       G                A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
-,{"lineaAcordes":"       C   D                   Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
-,{"lineaAcordes":"     C             G               A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
-,{"lineaAcordes":"(Em  C  D  C  D)  ","lineaLetras":""}
+,{"lineaAcordes":"(Em  C  D  C D Em)  ","lineaLetras":" "}
+,{"lineaAcordes":"Em               C                 D ","lineaLetras":"Watching horror films the night before  "}
+,{"lineaAcordes":"          G      A        Em  ","lineaLetras":"Debating witches and folklore  "}
+,{"lineaAcordes":"              C               D  ","lineaLetras":"The unknown troubles on your mind  "}
+,{"lineaAcordes":"Em             C                D ","lineaLetras":"   Maybe your mind is playing tricks  "}
+,{"lineaAcordes":"               G       A     Em  ","lineaLetras":"You sense and suddenly eyes fix  "}
+,{"lineaAcordes":"             C             D  ","lineaLetras":"On dancing shadows from behind  "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"             C   D               Em   D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"          C                  G                  A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
+,{"lineaAcordes":"             C   D                Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"           C          G        A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"             C   D               Em   D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"          C                  G                  A        Em ","lineaLetras":"I have a constant fear that something's always near  "}
+,{"lineaAcordes":"             C   D                Em    D ","lineaLetras":"Fear of the dark,    Fear of the dark,  "}
+,{"lineaAcordes":"           C          G        A        Em ","lineaLetras":"I have a phobia that someone's always there  "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"(Em  C  D  C  D)  ","lineaLetras":" "}
 ,{"lineaAcordes":"Em         C                   D ","lineaLetras":"And when I'm walking a dark road  "}
 ,{"lineaAcordes":"  G             A         Em ","lineaLetras":"I am a man who walks alone. "}
-,{"lineaAcordes":"","lineaLetras":""}
+]}
+,{"Artista":"John Lennon","Titulo":"Imagine","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: 2x"}
+,{"lineaAcordes":"(C       Cmaj7      F)      ","lineaLetras":"     "}
+,{"lineaAcordes":"C               Cmaj7      F          ","lineaLetras":"Imagine there's no heaven     "}
+,{"lineaAcordes":"C             Cmaj7        F        ","lineaLetras":"It's easy if you try     "}
+,{"lineaAcordes":"C         Cmaj7            F          ","lineaLetras":"No hell below us     "}
+,{"lineaAcordes":"C           Cmaj7          F     ","lineaLetras":"  Above us only sky     "}
+,{"lineaAcordes":"F         Am/E      Dm    Dm/C     ","lineaLetras":"  Imagine all the people     "}
+,{"lineaAcordes":"G      G11        G7     ","lineaLetras":"Living for today,  ah-ha     "}
+,{"lineaAcordes":"","lineaLetras":"     "}
+,{"lineaAcordes":"C               Cmaj7      F          ","lineaLetras":"Imagine there's no countries     "}
+,{"lineaAcordes":"C             Cmaj7        F          ","lineaLetras":"It isn't hard to do     "}
+,{"lineaAcordes":"C               Cmaj7      F         ","lineaLetras":"Nothing to kill or die for     "}
+,{"lineaAcordes":"C             Cmaj7        F     ","lineaLetras":"And no religion too     "}
+,{"lineaAcordes":"F        Am/E          Dm7/C    ","lineaLetras":"  Imagine all the people     "}
+,{"lineaAcordes":"G         G11     G7     ","lineaLetras":"Living life in piece     "}
+,{"lineaAcordes":"","lineaLetras":"     "}
+,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"F            G               C    Cmaj7   E   E7     ","lineaLetras":"   You, may say that I'm a dreamer     "}
+,{"lineaAcordes":"F            G               C    Cmaj7   E   E7     ","lineaLetras":"   But I'm not the only one     "}
+,{"lineaAcordes":"F            G               C    Cmaj7   E   E7     ","lineaLetras":"   I hope someday you'll join us     "}
+,{"lineaAcordes":"F            G          C             ","lineaLetras":"   And the world will live as one     "}
+,{"lineaAcordes":"","lineaLetras":"     "}
+,{"lineaAcordes":"C           Cmaj7        F           ","lineaLetras":"Imagine no possessions     "}
+,{"lineaAcordes":"C           Cmaj7        F          ","lineaLetras":"I wonder if you can     "}
+,{"lineaAcordes":"C                 Cmaj7      F      ","lineaLetras":"No need for greed or hunger     "}
+,{"lineaAcordes":"C             Cmaj7      F     ","lineaLetras":"A brotherhood of man     "}
+,{"lineaAcordes":"F        Am/E           Dm7    ","lineaLetras":"  Imagine all the people     "}
+,{"lineaAcordes":"G          G11    G7     ","lineaLetras":"Sharing all the world     "}
+,{"lineaAcordes":"","lineaLetras":"     "}
+,{"lineaAcordes":"F            G               C    Cmaj7   E   E7     ","lineaLetras":"   You, may say that I'm a dreamer     "}
+,{"lineaAcordes":"F            G               C    Cmaj7   E   E7     ","lineaLetras":"   But I'm not the only one     "}
+,{"lineaAcordes":"F            G               C    Cmaj7   E   E7     ","lineaLetras":"   I hope someday you'll join us     "}
+,{"lineaAcordes":"F            G          C     ","lineaLetras":"   And the world will live as one    "}
 ]}
 ,{"Artista":"Paul Anka","Titulo":"My Way","Estrofas":[{"lineaAcordes":"","lineaLetras":"Intro: "}
-,{"lineaAcordes":"C  ","lineaLetras":" "}
+,{"lineaAcordes":"C  ","lineaLetras":""}
 ,{"lineaAcordes":"     C	           Em	  ","lineaLetras":"And now the end is near,   "}
 ,{"lineaAcordes":"         Gm              A7  ","lineaLetras":"and so I face the final curtain.  "}
 ,{"lineaAcordes":"     Dm		          Dm7	  ","lineaLetras":"My friends, I'll say it clear,   "}
 ,{"lineaAcordes":"","lineaLetras":"	       G7	          C  "}
 ,{"lineaAcordes":"","lineaLetras":"I'll state my case, of which I'm certain.  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"      C		          C7  "}
 ,{"lineaAcordes":"","lineaLetras":"I've lived a life that's full,	  "}
 ,{"lineaAcordes":"","lineaLetras":"	   F 		  Fm  "}
 ,{"lineaAcordes":"","lineaLetras":"I traveled each	and every highway,  "}
 ,{"lineaAcordes":"","lineaLetras":"    C	                   G             F   C  "}
 ,{"lineaAcordes":"","lineaLetras":"And more, much more than this, I did it	my way  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"  C	            Em  "}
 ,{"lineaAcordes":"","lineaLetras":"Regrets, I've had a few,	   "}
 ,{"lineaAcordes":"","lineaLetras":"          Gm               A7  "}
@@ -1189,16 +1247,16 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"I did what I had to do  "}
 ,{"lineaAcordes":"","lineaLetras":"           G7               C  "}
 ,{"lineaAcordes":"","lineaLetras":"and saw it thru without exemption.	  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"  C		         C7  "}
 ,{"lineaAcordes":"","lineaLetras":"I planned each chartered course,   "}
 ,{"lineaAcordes":"","lineaLetras":"               F             Fm  "}
 ,{"lineaAcordes":"","lineaLetras":"each carefull step along the by way.  "}
 ,{"lineaAcordes":"","lineaLetras":"     C	                    G	           F   C  "}
 ,{"lineaAcordes":"","lineaLetras":"And more,  much more than this, I did it  my way  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"                C 	            C7  "}
 ,{"lineaAcordes":"","lineaLetras":"Yes, there were times, I'm sure you knew,  "}
 ,{"lineaAcordes":"","lineaLetras":"	   F                      Fm  "}
@@ -1209,8 +1267,8 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"I ate it up, and spit it out.  "}
 ,{"lineaAcordes":"","lineaLetras":"	    Dm7              G		      F   C  "}
 ,{"lineaAcordes":"","lineaLetras":"I faced it  all, and I stood tall and did it my way.  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"      C			      Em	  "}
 ,{"lineaAcordes":"","lineaLetras":"I've loved, I've laughed and cried,  "}
 ,{"lineaAcordes":"","lineaLetras":"            Gm                A7  "}
@@ -1219,16 +1277,16 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"And now,  as tears subside,   "}
 ,{"lineaAcordes":"","lineaLetras":"          G7      C  "}
 ,{"lineaAcordes":"","lineaLetras":"I find it all so amusing  "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"   C   	           C7	         "}
 ,{"lineaAcordes":"","lineaLetras":"To think I did all that,   "}
 ,{"lineaAcordes":"","lineaLetras":"	   F		  Fm  "}
 ,{"lineaAcordes":"","lineaLetras":"and may I say,	not in a shy way,  "}
 ,{"lineaAcordes":"","lineaLetras":"   C		     G		  F   C  "}
 ,{"lineaAcordes":"","lineaLetras":"Oh no, 	oh no, 	not me,	 I did it my way ? "}
-,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
+,{"lineaAcordes":"","lineaLetras":""}
 ,{"lineaAcordes":"","lineaLetras":"              C		       C7  "}
 ,{"lineaAcordes":"","lineaLetras":"For what is a man, what has he got,   "}
 ,{"lineaAcordes":"","lineaLetras":"          F                           "}
@@ -1242,6 +1300,6 @@ var canciones=[{"Artista":"ABBA","Titulo":"Does your mother know","Estrofas":[{"
 ,{"lineaAcordes":"","lineaLetras":"           Dm7	            G 	              F   C  "}
 ,{"lineaAcordes":"","lineaLetras":"The record shows I took the blows and did it my way. "}
 ,{"lineaAcordes":"","lineaLetras":" "}
-,{"lineaAcordes":"","lineaLetras":" "}
+,{"lineaAcordes":"","lineaLetras":""}
 ]}
 ];
