@@ -105,7 +105,7 @@
 			for(j=0;j<canciones[numeroCancion].Estrofas.length;j++){
 				var estrofa=canciones[numeroCancion].Estrofas[j];
 				var lineaAcordes=estrofa.lineaAcordes.replace(/ /g,"&nbsp;").replace(/-/g,"&#8209;");
-				htmlCancion+="<div class=filaAcordes>"+lineaAcordes+"</div><div class=filaLetras>"+limpiarAcentos(estrofa.lineaLetras).replace(/ /g,"&nbsp;").replace(/-/g,"&#8209;")+"</div>"+/*<br>+*/"";
+                htmlCancion += "<div class=filaAcordes>" + lineaAcordes + "</div><div class=filaLetras>" + limpiarAcentos(estrofa.lineaLetras).replace(/ /g, "&nbsp;").replace(/-/g, "&#8209;") +"&nbsp;</div>"+/*<br>+*/"";
 			}
 
 
@@ -128,13 +128,11 @@
 
 
 		function transponer(cantidad){
-			
 			for(numeroEstrofa=0;numeroEstrofa<canciones[cancionActual].Estrofas.length;numeroEstrofa++){
 				
 				canciones[cancionActual].Estrofas[numeroEstrofa].lineaAcordes=transponerFila(canciones[cancionActual].Estrofas[numeroEstrofa].lineaAcordes,cantidad);
 			}
 			cargarCancion(cancionActual);
-			
 		}
 
 		function transponerFila(textoFila,cantidad){
